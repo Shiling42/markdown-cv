@@ -51,6 +51,7 @@ table {
 
 
 
+
 body {
 	font: normal normal 400;
 	font-size: 100%;
@@ -59,6 +60,7 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	hyphens: auto;
 }
 
 p {
@@ -66,7 +68,9 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 60%;
+	hyphens: auto;
+
 }
 
 code {
@@ -75,12 +79,15 @@ code {
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	color: #aaa;
+	width: 20%
 }
 
 p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	width: 20%;
+
 }
 
 
@@ -90,20 +97,22 @@ ul {
 	width: 75%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "•";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
 	padding-left: 1.25em;
-	text-indent: -1.25em;
+	text-indent:  0em;
 	/*color: #777;*/
+	width : 74%
 }
 
 li ul {
@@ -111,6 +120,7 @@ li ul {
 	left: 0;
 	width: 100%;
 	margin-top: 0.25em;
+	hyphens: auto;
 }
 
 h1,h2,h3,h4 {
@@ -168,10 +178,13 @@ a:hover {
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
+	width:75%;
+	word-break: break-all;
 }
 
 #webaddress a {
 	text-decoration: none;
+	word-break: break-all;
 }
 
 em {

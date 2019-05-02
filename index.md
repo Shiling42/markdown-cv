@@ -14,7 +14,7 @@ non-equilibrium thermodynamics, compelx systems, origins of life
 ## Education
 
 `2018 - 2020`
-**École Polytechnique Fédérale de Lausann (EPFL)**, Lausanne, Switzerland
+**École Polytechnique Fédérale de Lausann**, Lausanne, Switzerland
 
  *M.Sc. in Physics*
 

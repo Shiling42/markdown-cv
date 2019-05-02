@@ -59,6 +59,7 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
+	hyphens: auto;
 }
 
 p {
@@ -66,7 +67,7 @@ p {
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 55%;
+	width: 70%;
 }
 
 code {
@@ -77,7 +78,7 @@ code {
 	color: #aaa;
 	position: absolute;
 	text-align: right;
-	right: 109.1%;
+	right: 107.14%;
 	width: 27%;
 }
 
@@ -104,12 +105,12 @@ li {
 	padding-left: 1.25em;
 	text-indent: 0em;
 	/*color: #777;*/
+	width: 90%;
 }
 
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
 	margin-top: 0.25em;
 }
 
