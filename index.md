@@ -51,7 +51,7 @@ non-equilibrium thermodynamics, compelx systems, origins of life
   - Identiﬁed several key chlorophylls as links between the communities and reaction center of PS I
   - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
-## Summer Schools & Workshops & Conferences
+## Summer Schools, Workshops & Conferences
 
 `Sep 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
