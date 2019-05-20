@@ -57,6 +57,9 @@ non-equilibrium thermodynamics, compelx systems, origins of life
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
  - GEFENOL, Santander, Spain
 
+`Aug 2019`
+**Mathematics of Deep Learning**
+- BMS Summer School 2019, Berlin, Germany
 
 `Aug 2019`
  **Bad Honnef Physics School: Physics of Bacteria**
