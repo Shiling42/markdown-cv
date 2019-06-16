@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-non-equilibrium thermodynamics, compelx systems, origins of life
+non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Education
 
@@ -36,11 +36,11 @@ non-equilibrium thermodynamics, compelx systems, origins of life
 
 `Feb 2019 - now`
  **Thermodynamic origins of Life**
-  - semester research project at Lab of Statistical Biophysics, EPFL
-  - Supervisor: Prof. Paolo de los Rios
+  - A semester research project at Lab of Statistical Biophysics, EPFL
+  - Supervisor: Prof. Paolo de Los Rios
 
 `Feb 2018 - Jun 2018`
- **Modelling of bacteiral bioﬁlms**
+ **Modelling of bacterial bioﬁlms**
   - B.Sc. Dissertation at the University of Manchester 
 
 `May 2016 - May 2017`
@@ -51,7 +51,7 @@ non-equilibrium thermodynamics, compelx systems, origins of life
   - Identiﬁed several key chlorophylls as links between the communities and reaction center of PS I
   - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
-## Summer Schools, Workshops & Conferences
+## Schools, Workshops & Conferences
 
 `Sep 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
@@ -78,7 +78,7 @@ non-equilibrium thermodynamics, compelx systems, origins of life
 
 ## Skills
 
-**Programming Language**: Python , Mathematica, MATLAB, C++, Julia
+**Programming Language**: Python, Mathematica, MATLAB, C++, Julia
 
 **Computer Skills**:  LaTeX, Jupyter Notebook, Git, Linux, Microsoft Office
 
