@@ -4,8 +4,8 @@ title: Shiling Liang's CV
 ---
 # Shiling Liang
 <div id="webaddress">
-<a href="shilingliang.com">https://shilingliang.com</a>
-| <a href="shiling.liang@epfl.ch">shiling.liang_at_epfl.ch</a>
+<a href="https://shilingliang.com">shilingliang.com</a>
+| <a href="mailto:shiling.liang@epfl.ch">shiling.liang_at_epfl.ch</a>
 </div>
 ### Research interests
 
