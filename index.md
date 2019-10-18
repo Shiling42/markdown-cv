@@ -14,7 +14,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 ## Education
 
 `2018 - 2020`
-**École Polytechnique Fédérale de Lausann**, Lausanne, Switzerland
+**École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
  *M.Sc. in Physics*
 
@@ -37,7 +37,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 `Feb 2019 - now`
  **Thermodynamic origins of Life**
   - A semester research project at Lab of Statistical Biophysics, EPFL
-  - Supervisor: Prof. Paolo de Los Rios
+  - Supervisor: Prof. Paolo De Los Rios
 
 `Feb 2018 - Jun 2018`
  **Modelling of bacterial bioﬁlms**
@@ -68,6 +68,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 `Jul 2019`
  **Hands-On Research in Complex Systems School** 
 - ICTP, Trieste, Italy
+- Poster: The cluster structure of high-efficiency photonsystem (PS I)
 
 `Jun 2018`
  **Introduction to Complex System Summer School**
@@ -82,7 +83,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 **Computer Skills**:  LaTeX, Jupyter Notebook, Git, Linux, Microsoft Office
 
-**Scientific Computing**: Numpy, Scipy, Sympy, Monte Carlo Simulation, VMD
+**Scientific Computing**: Numpy, Scipy, Sympy, Monte Carlo Simulation, Molecular Dynamics Simulation
 
 **Machine Learning**: Deep Neural Network, Convolution Neural Network, Basic TensorFlow
 
