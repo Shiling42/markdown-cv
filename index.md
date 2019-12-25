@@ -49,8 +49,8 @@ non-equilibrium thermodynamics, complex systems, origins of life
   - Undergraduate Research Project at Beijing Normal University. 
   - Supervisor: Prof. Qing Ai
   - Applied network approach to find the communities in Photosystem I
-  - Identiﬁed several key chlorophylls as links between the antenna communities and reaction center of PS I
-  - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
+    - Identiﬁed several key chlorophylls as links between the antenna communities and reaction center of PS I
+    - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
 
@@ -90,7 +90,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Publications
 
-- Busiello, Daniel Maria, **Shi-Ling Liang**, and Paolo De Los Rios. "Dissipation-driven selection in non-equilibrium chemical networks." arXiv preprint arXiv:1912.04642 (2019).
+ Busiello, Daniel Maria, **Shi-Ling Liang**, and Paolo De Los Rios. "Dissipation-driven selection in non-equilibrium chemical networks." arXiv preprint arXiv:1912.04642 (2019).
 
 ## Awards, Grants & Honours
 
