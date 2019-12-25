@@ -34,21 +34,22 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Research & Projects
 
-`Feb 2019 - now`
- **Thermodynamic origins of Life**
-  - A semester research project at Lab of Statistical Biophysics, EPFL
-  - Supervisor: Prof. Paolo De Los Rios
+`Feb 2019 - Jul 2019`
+**Thermodynamic Origins of Life I**
+  - A semester research project at Lab of Statistical Biophysics (LSB), EPFL.
+  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
+  - Result: [arXiv:1912.04642 (2019)](https://arxiv.org/abs/1912.04642)
 
 `Feb 2018 - Jun 2018`
- **Modelling of bacterial bioﬁlms**
+ **Modelling of Bacterial Bioﬁlms**
   - B.Sc. Dissertation at the University of Manchester 
 
 `May 2016 - May 2017`
-**Complex network approach for the high eﬃciency light harvesting system** 
+**Complex Network Approach for the High Eﬃciency Light Harvesting System** 
   - Undergraduate Research Project at Beijing Normal University. 
-  - Supervisor Prof. Qing Ai
+  - Supervisor: Prof. Qing Ai
   - Applied network approach to find the communities in Photosystem I
-  - Identiﬁed several key chlorophylls as links between the communities and reaction center of PS I
+  - Identiﬁed several key chlorophylls as links between the antenna communities and reaction center of PS I
   - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
@@ -85,11 +86,11 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 **Scientific Computing**: Numpy, Scipy, Sympy, Monte Carlo Simulation, Molecular Dynamics Simulation
 
-**Machine Learning**: Deep Neural Network, Convolution Neural Network, Basic TensorFlow
+**Machine Learning**: Pytorch, TensorFlow
 
 ## Publications
 
-...
+- Busiello, Daniel Maria, **Shi-Ling Liang**, and Paolo De Los Rios. "Dissipation-driven selection in non-equilibrium chemical networks." arXiv preprint arXiv:1912.04642 (2019).
 
 ## Awards, Grants & Honours
 
