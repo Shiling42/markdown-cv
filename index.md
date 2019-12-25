@@ -90,7 +90,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Publications
 
-  Daniel Maria Busiello, **Shi-Ling Liang**, and Paolo De Los Rios. "Dissipation-driven selection in non-equilibrium chemical networks." arXiv preprint arXiv:1912.04642 (2019).
+Daniel Maria Busiello, **Shi-Ling Liang**, and Paolo De Los Rios. "Dissipation-driven selection in non-equilibrium chemical networks." arXiv preprint arXiv:1912.04642 (2019).
 
 ## Awards, Grants & Honours
 
