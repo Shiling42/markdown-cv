@@ -13,10 +13,18 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Education
 
+`2020 - now`
+**École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
+
+*Ph.D. in Physics @ Laboratory of Statistical Biophysics* 
+- Supervisor: Prof. Paolo De Los Rios
+
 `2018 - 2020`
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
- *M.Sc. in Physics*
+*M.Sc. in Physics*
+- Thesis: Non-equilibirum chemical reactions under non-isothermal conditions
+- Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
 
 
 `2016 - 2018`
@@ -36,7 +44,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 `Feb 2019 - Jul 2019`
 **Thermodynamic Origins of Life I**
-  - A semester research project at Lab of Statistical Biophysics (LSB), EPFL.
+  - A semester research project at Lab of Statistical Biophysics (LBS), EPFL.
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
   - Result: [arXiv:1912.04642 (2019)](https://arxiv.org/abs/1912.04642)
 
