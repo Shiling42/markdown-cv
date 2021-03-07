@@ -98,7 +98,11 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Publications
 
-Daniel Maria Busiello, **Shi-Ling Liang**, and Paolo De Los Rios. "Dissipation-driven selection in non-equilibrium chemical networks." arXiv preprint arXiv:1912.04642 (2019).
+Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." Communications Chemistry 4, no. 1 (2021): 1-7.
+  
+**Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." arXiv preprint arXiv:2102.03197 (2021).
+
+Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." arXiv preprint arXiv:2010.13188 (2020).
 
 ## Awards, Grants & Honours
 
