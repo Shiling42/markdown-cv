@@ -13,7 +13,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Education
 
-`2020 - now`
+`2020 - Now`
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 *Ph.D. in Physics @ Laboratory of Statistical Biophysics* 
@@ -42,11 +42,17 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Research & Projects
 
-`Feb 2019 - Jul 2019`
-**Thermodynamic Origins of Life I**
+`Sep 2020 - Now`
+**Non-equilibrium Reaction Networks and the Origins of Life**
+  - Phd project at LBS, EPFL
+  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
+
+`Feb 2019 - Jul 2020`
+**Thermodynamic Origins of Life**
   - A semester research project at Lab of Statistical Biophysics (LBS), EPFL.
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
-  - Result: [arXiv:1912.04642 (2019)](https://arxiv.org/abs/1912.04642)
+  - Results: [2] and [3]
+  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
 
 `Feb 2018 - Jun 2018`
  **Modelling of Bacterial Bioﬁlms**
@@ -86,7 +92,6 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 `Jun 2018`
  **Introduction to Complex System Summer School**
-
  - Utrecht University, Utrecht, Netherlands
 
 
@@ -103,13 +108,13 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Publications
 
-**Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
+[1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
 
-Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
+[2] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
   
-**Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." *arXiv preprint* arXiv:2102.03197 (2021).
+[3] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." *arXiv preprint* arXiv:2102.03197 (2021).
 
-Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
+[4] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
 ## Awards, Grants & Honours
 
