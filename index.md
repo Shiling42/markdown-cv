@@ -62,6 +62,11 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Schools, Workshops & Conferences
 
+`May 2021` 
+**14th International meeting on Thermodiffusion**
+  - NTNU, Trondheim, Norway
+  - Poster: Thermophoresis of multi-state particles
+
 `Sep 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
  - Universidad de Cantabria, Santander, Spain
@@ -98,13 +103,13 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Publications
 
-**Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." Entropy 23, no. 8 (2021): 1068.
+**Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
 
-Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." Communications Chemistry 4, no. 1 (2021): 1-7.
+Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
   
-**Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." arXiv preprint arXiv:2102.03197 (2021).
+**Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." *arXiv preprint* arXiv:2102.03197 (2021).
 
-Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." arXiv preprint arXiv:2010.13188 (2020).
+Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
 ## Awards, Grants & Honours
 
