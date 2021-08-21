@@ -98,6 +98,8 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Publications
 
+**Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." Entropy 23, no. 8 (2021): 1068.
+
 Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." Communications Chemistry 4, no. 1 (2021): 1-7.
   
 **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." arXiv preprint arXiv:2102.03197 (2021).
