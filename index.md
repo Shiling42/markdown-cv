@@ -5,7 +5,7 @@ title: Shiling Liang's CV
 # Shiling Liang
 <div id="webaddress">
 <a href="https://shilingliang.com">shilingliang.com</a>
-| <a href="mailto:shiling.liang@epfl.ch">shiling.liang_at_epfl.ch</a>
+| <a href="mailto:shiling.liang@epfl.ch">shiling.liang@epfl.ch</a>
 </div>
 ### Research interests
 
@@ -23,7 +23,7 @@ non-equilibrium thermodynamics, complex systems, origins of life
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 *M.Sc. in Physics*
-- Thesis: Non-equilibirum chemical reactions under non-isothermal conditions
+- Thesis: Non-equilibrium chemical reactions under non-isothermal conditions
 - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
 
 
@@ -42,24 +42,24 @@ non-equilibrium thermodynamics, complex systems, origins of life
 
 ## Research & Projects
 
-`Sep 2020 - Now`
+`Sep. 2020 - Now`
 **Non-equilibrium Reaction Networks and the Origins of Life**
-  - Phd project at LBS, EPFL
-  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
+  - PhD project at LBS, EPFL
+  - Supervisors: Prof. Paolo De Los Rios
 
-`Feb 2019 - Jul 2020`
+`Feb. 2019 - Jul. 2020`
 **Thermodynamic Origins of Life**
   - A semester research project at Lab of Statistical Biophysics (LBS), EPFL.
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
   - Results: [2] and [3]
-  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
+  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Conditions
 
-`Feb 2018 - Jun 2018`
+`Fe.b 2018 - Jun. 2018`
  **Modelling of Bacterial Bioﬁlms**
   - B.Sc. Dissertation at the University of Manchester 
 
 `May 2016 - May 2017`
-**Complex Network Approach for the High Eﬃciency Light Harvesting System** 
+**Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
   - Undergraduate Research Project at Beijing Normal University. 
   - Supervisor: Prof. Qing Ai
   - Applied network approach to find the communities in Photosystem I
@@ -67,30 +67,34 @@ non-equilibrium thermodynamics, complex systems, origins of life
     - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
+`Jun. 2022`
+**Molecular Origins of Life**
+  - Munich, Germany
+  - Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
 
 `May 2021` 
 **14th International meeting on Thermodiffusion**
   - NTNU, Trondheim, Norway
   - Poster: Thermophoresis of multi-state particles
 
-`Sep 2019`
+`Sep. 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
  - Universidad de Cantabria, Santander, Spain
 
-`Aug 2019`
+`Aug. 2019`
 **Mathematics of Deep Learning**
 - Zuse Institute Berlin, Berlin, Germany
 
-`Aug 2019`
+`Aug. 2019`
  **Bad Honnef Physics School: Physics of Bacteria**
  - Physikzentrum Bad Honnef, Germany
 
-`Jul 2019`
+`Jul. 2019`
  **Hands-On Research in Complex Systems School** 
 - ICTP, Trieste, Italy
-- Poster: The cluster structure of high-efficiency photonsystem (PS I)
+- Poster: The cluster structure of high-efficiency photosystem (PS I)
 
-`Jun 2018`
+`Jun. 2018`
  **Introduction to Complex System Summer School**
  - Utrecht University, Utrecht, Netherlands
 
