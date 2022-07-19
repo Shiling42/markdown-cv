@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-non-equilibrium thermodynamics, complex systems, origins of life
+non-equilibrium thermodynamics, biochemical physics, origins of life
 
 ## Education
 
@@ -25,7 +25,6 @@ non-equilibrium thermodynamics, complex systems, origins of life
 *M.Sc. in Physics*
 - Thesis: Non-equilibrium chemical reactions under non-isothermal conditions
 - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
-
 
 `2016 - 2018`
 **The University of Manchester**, Manchester, UK 
@@ -67,6 +66,12 @@ non-equilibrium thermodynamics, complex systems, origins of life
     - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
+`Jul. 2022`
+**7th Beijing Soft Matter Workshop**
+  - Beijing, China
+  - Talk: Emergent thermophoretic behavior for particles with internal states
+  - Best Short Talk Award
+  
 `Jun. 2022`
 **Molecular Origins of Life**
   - Munich, Germany
