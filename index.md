@@ -66,6 +66,10 @@ non-equilibrium thermodynamics, biochemical physics, origins of life
     - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
+`Sep. 2022`
+**School on Information, Noise, and Physics of Life**
+  - Niš, Serbia
+
 `Jul. 2022`
 **7th Beijing Soft Matter Workshop**
   - Beijing, China
