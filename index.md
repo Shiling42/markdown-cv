@@ -66,6 +66,13 @@ non-equilibrium thermodynamics, biochemical physics, origins of life
     - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
+`Nov. 2022`
+**Biomechanics, Bioengineering and Mathematical Biology Seminar**
+  - Mathematical institute of Serbian Academy of
+Sciences and Arts (Online) 
+  - Invited talk: Non-isothermal chemical reaction networks: hints to the origins of life
+
+
 `Sep. 2022`
 **School on Information, Noise, and Physics of Life**
   - Niš, Serbia
@@ -130,6 +137,11 @@ non-equilibrium thermodynamics, biochemical physics, origins of life
 [4] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
 ## Awards, Grants & Honours
+`2023` 
+JSPS fellowship for research in Japan (5 months)
+
+`2022`
+Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2015-2018` 
 Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
