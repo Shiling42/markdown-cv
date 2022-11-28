@@ -39,39 +39,14 @@ non-equilibrium thermodynamics, biochemical physics, origins of life
 - Joint degree program with the University of Manchester
 - Result: 89.5/100 (major); Ranking: 4/28
 
-## Research & Projects
-
-`Sep. 2020 - Now`
-**Non-equilibrium Reaction Networks and the Origins of Life**
-  - PhD project at LBS, EPFL
-  - Supervisors: Prof. Paolo De Los Rios
-
-`Feb. 2019 - Jul. 2020`
-**Thermodynamic Origins of Life**
-  - A semester research project at Lab of Statistical Biophysics (LBS), EPFL.
-  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
-  - Results: [2] and [3]
-  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Conditions
-
-`Fe.b 2018 - Jun. 2018`
- **Modelling of Bacterial Bioﬁlms**
-  - B.Sc. Dissertation at the University of Manchester 
-
-`May 2016 - May 2017`
-**Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
-  - Undergraduate Research Project at Beijing Normal University. 
-  - Supervisor: Prof. Qing Ai
-  - Applied network approach to find the communities in Photosystem I
-    - Identiﬁed several key chlorophylls as links between the antenna communities and reaction center of PS I
-    - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
+
 `Nov. 2022`
 **Biomechanics, Bioengineering and Mathematical Biology Seminar**
   - Mathematical institute of Serbian Academy of
 Sciences and Arts (Online) 
   - Invited talk: Non-isothermal chemical reaction networks: hints to the origins of life
-
 
 `Sep. 2022`
 **School on Information, Noise, and Physics of Life**
@@ -115,30 +90,22 @@ Sciences and Arts (Online)
  - Utrecht University, Utrecht, Netherlands
 
 
-
-## Skills
-
-**Programming Language**: Python, Mathematica, MATLAB, C++, Julia
-
-**Computer Skills**:  LaTeX, Jupyter Notebook, Git, Linux, Microsoft Office
-
-**Scientific Computing**: Numpy, Scipy, Sympy, Monte Carlo Simulation, Molecular Dynamics Simulation
-
-**Machine Learning**: Pytorch, TensorFlow
-
 ## Publications
 
-[1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
+[1] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* (2022).
 
-[2] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
+[2] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
+
+[3] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
   
-[3] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "The intrinsic non-equilibrium nature of thermophoresis." *arXiv preprint* arXiv:2102.03197 (2021).
 
 [4] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
+
 ## Awards, Grants & Honours
+
 `2023` 
-JSPS fellowship for research in Japan (5 months)
+JSPS fellowship for research in Japan (Strategic)
 
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
@@ -155,6 +122,7 @@ The Second Prize, China Undergraduate Physics Tournament
 `2014-2015 & 2015-2016`
 The Second Prize Scholarship in Beijing Normal University, China 
 
+
 <!-- ### Footer
 
-Last updated: May 2019 -->
+Last updated: Nov 2022-->
