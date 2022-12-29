@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-non-equilibrium thermodynamics, biochemical physics, origins of life
+non-equilibrium thermodynamics, biochemical physics, origin of life
 
 ## Education
 
@@ -40,7 +40,35 @@ non-equilibrium thermodynamics, biochemical physics, origins of life
 - Result: 89.5/100 (major); Ranking: 4/28
 
 
+## Publications
+[1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
+
+[2] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* (2022).
+
+[3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
+
+[4] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
+  
+
+[5] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
+
+
+## Awards, Grants & Honours
+
+`2023` 
+JSPS fellowship for research in Japan (Strategic)
+
+`2022`
+Best Short Talk Award, 7th Beijing Soft Matter Workshop
+
+`2015-2018` 
+Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
+
 ## Schools, Workshops & Conferences
+`Dec. 2022`
+ **(Post)modern Thermodynamics school & workshop**
+  - Luxembourg University, Luxembourg
+  - Poster: Emergent thermophoretic behavior in chemical reaction systems
 
 `Nov. 2022`
 **Biomechanics, Bioengineering and Mathematical Biology Seminar**
@@ -88,40 +116,6 @@ Sciences and Arts (Online)
 `Jun. 2018`
  **Introduction to Complex System Summer School**
  - Utrecht University, Utrecht, Netherlands
-
-
-## Publications
-
-[1] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* (2022).
-
-[2] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
-
-[3] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
-  
-
-[4] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
-
-
-## Awards, Grants & Honours
-
-`2023` 
-JSPS fellowship for research in Japan (Strategic)
-
-`2022`
-Best Short Talk Award, 7th Beijing Soft Matter Workshop
-
-`2015-2018` 
-Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
-
-`2015`
-The Second Prize, The 8th Undergraduate Physical Experiment Competition of Beijing 
-
-`2015`
-The Second Prize, China Undergraduate Physics Tournament
-
-`2014-2015 & 2015-2016`
-The Second Prize Scholarship in Beijing Normal University, China 
-
 
 <!-- ### Footer
 
