@@ -37,13 +37,12 @@ non-equilibrium thermodynamics, biochemical physics, origin of life
 
 *B.Sc. in Physics*
 - Joint degree program with the University of Manchester
-- Result: 89.5/100 (major); Ranking: 4/28
 
 
 ## Publications
 [1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
 
-[2] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* (2022).
+[2] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* 24, no. 12 (2022): 123006.
 
 [3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
 
@@ -76,17 +75,17 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 Sciences and Arts (Online) 
   - Invited talk: Non-isothermal chemical reaction networks: hints to the origins of life
 
-`Sep. 2022`
+`Sept. 2022`
 **School on Information, Noise, and Physics of Life**
   - Niš, Serbia
 
-`Jul. 2022`
+`July 2022`
 **7th Beijing Soft Matter Workshop**
   - Beijing, China
   - Talk: Emergent thermophoretic behavior for particles with internal states
   - Best Short Talk Award
   
-`Jun. 2022`
+`June 2022`
 **Molecular Origins of Life**
   - Munich, Germany
   - Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
@@ -96,7 +95,7 @@ Sciences and Arts (Online)
   - NTNU, Trondheim, Norway
   - Poster: Thermophoresis of multi-state particles
 
-`Sep. 2019`
+`Sept. 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
  - Universidad de Cantabria, Santander, Spain
 
@@ -108,12 +107,12 @@ Sciences and Arts (Online)
  **Bad Honnef Physics School: Physics of Bacteria**
  - Physikzentrum Bad Honnef, Germany
 
-`Jul. 2019`
+`July 2019`
  **Hands-On Research in Complex Systems School** 
 - ICTP, Trieste, Italy
 - Poster: The cluster structure of high-efficiency photosystem (PS I)
 
-`Jun. 2018`
+`June 2018`
  **Introduction to Complex System Summer School**
  - Utrecht University, Utrecht, Netherlands
 
