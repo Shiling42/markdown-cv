@@ -65,7 +65,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Schools, Workshops & Conferences
 `Dec. 2022`
- **(Post)modern Thermodynamics school & workshop**
+ **(Post)modern Thermodynamics School & Workshop**
   - Luxembourg University, Luxembourg
   - Poster: Emergent thermophoretic behavior in chemical reaction systems
 
@@ -118,4 +118,4 @@ Sciences and Arts (Online)
 
 <!-- ### Footer
 
-Last updated: Nov 2022-->
+Last updated: Jan 2023-->
