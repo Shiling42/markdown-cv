@@ -38,32 +38,32 @@ non-equilibrium thermodynamics, biochemical physics, origin of life
 *B.Sc. in Physics*
 - Joint degree program with the University of Manchester
 
-## Research Experience
+## Research Experiences
 
-`Jan. 2022 - June 2022` 
+`Jan. 2022 - Jun. 2022` 
 **Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
   - JSPS Fellow (Strategic Program)
   - Okinawa Institute of Science and Technology, Japan
   - Supervisors: Prof. Simone Pigolotti
 
-`July 2022 - Sept. 2022`
+`Jul. 2022 - Sep. 2022`
 **Two-Component Signal Transduction Systems**
   - Visiting research student
   - Okinawa Institute of Science and Technology, Japan
   - Supervisors: Prof. Simone Pigolotti
   
-`Sept. 2020 - Now` 
+`Sep. 2020 - Now` 
 **Non-equilibrium Reaction Networks and the Origins of Life** 
   - PhD project at LBS, EPFL
   - Supervisors: Prof. Paolo De Los Rios
 
-`Feb. 2019 - July 2020` 
+`Feb. 2019 - Jul. 2020` 
 **Thermodynamic Origins of Life**
   - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
-  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
+  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
   - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
 
-`Feb. 2018 - June 2018`
+`Feb. 2018 - Jun. 2018`
 **Modelling of Bacterial Bioﬁlms**
   - B.Sc. Dissertation at the University of Manchester 
 
@@ -83,15 +83,15 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
 
 ## Publications
+`2022`
 [1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
 
 [2] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* 24, no. 12 (2022): 123006.
-
+`2021`
 [3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
 
 [4] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
   
-
 [5] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
 
@@ -109,17 +109,17 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 Sciences and Arts (Online) 
   - Invited talk: Non-isothermal chemical reaction networks: hints to the origins of life
 
-`Sept. 2022`
+`Sep. 2022`
 **School on Information, Noise, and Physics of Life**
   - Niš, Serbia
 
-`July 2022`
+`Jul. 2022`
 **7th Beijing Soft Matter Workshop**
   - Beijing, China
   - Talk: Emergent thermophoretic behavior for particles with internal states
   - Best Short Talk Award
   
-`June 2022`
+`Jun. 2022`
 **Molecular Origins of Life**
   - Munich, Germany
   - Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
@@ -129,7 +129,7 @@ Sciences and Arts (Online)
   - NTNU, Trondheim, Norway
   - Poster: Thermophoresis of multi-state particles
 
-`Sept. 2019`
+`Sep. 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**
  - Universidad de Cantabria, Santander, Spain
 
@@ -141,12 +141,12 @@ Sciences and Arts (Online)
  **Bad Honnef Physics School: Physics of Bacteria**
  - Physikzentrum Bad Honnef, Germany
 
-`July 2019`
+`Jul. 2019`
  **Hands-On Research in Complex Systems School** 
 - ICTP, Trieste, Italy
 - Poster: The cluster structure of high-efficiency photosystem (PS I)
 
-`June 2018`
+`Jun. 2018`
  **Introduction to Complex System Summer School**
  - Utrecht University, Utrecht, Netherlands
 
