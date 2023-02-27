@@ -87,6 +87,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 [1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
 
 [2] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* 24, no. 12 (2022): 123006.
+
 `2021`
 [3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
 
