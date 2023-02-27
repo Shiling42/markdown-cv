@@ -38,6 +38,49 @@ non-equilibrium thermodynamics, biochemical physics, origin of life
 *B.Sc. in Physics*
 - Joint degree program with the University of Manchester
 
+## Research Experience
+
+`Jan. 2022 - June 2022` 
+**Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
+  - JSPS Fellow (Strategic Program)
+  - Okinawa Institute of Science and Technology, Japan
+  - Supervisors: Prof. Simone Pigolotti
+
+`July 2022 - Sept. 2022`
+**Two-Component Signal Transduction Systems**
+  - Visiting research student
+  - Okinawa Institute of Science and Technology, Japan
+  - Supervisors: Prof. Simone Pigolotti
+  
+`Sept. 2020 - Now` 
+**Non-equilibrium Reaction Networks and the Origins of Life** 
+  - PhD project at LBS, EPFL
+  - Supervisors: Prof. Paolo De Los Rios
+
+`Feb. 2019 - July 2020` 
+**Thermodynamic Origins of Life**
+  - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
+  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel M. Busiello
+  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
+
+`Feb. 2018 - June 2018`
+**Modelling of Bacterial Bioﬁlms**
+  - B.Sc. Dissertation at the University of Manchester 
+
+`May 2016 - May 2017`
+**Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
+  - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
+  - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
+
+## Awards, Grants & Honours
+`2023` 
+JSPS fellowship for research in Japan (Strategic)
+
+`2022`
+Best Short Talk Award, 7th Beijing Soft Matter Workshop
+
+`2015-2018` 
+Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
 
 ## Publications
 [1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
@@ -52,16 +95,7 @@ non-equilibrium thermodynamics, biochemical physics, origin of life
 [5] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
 
-## Awards, Grants & Honours
 
-`2023` 
-JSPS fellowship for research in Japan (Strategic)
-
-`2022`
-Best Short Talk Award, 7th Beijing Soft Matter Workshop
-
-`2015-2018` 
-Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
 
 ## Schools, Workshops & Conferences
 `Dec. 2022`
