@@ -99,6 +99,16 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 
 ## Schools, Workshops & Conferences
+`Jul. 2023`
+**StatPhys28**
+  - Tokyo, Japan 
+  - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+  
+`May 2023`
+**Workshop on Stochastic Thermodynamics - WOST IV**
+  - ICTP, Italy
+  - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+  
 `Dec. 2022`
  **(Post)modern Thermodynamics School & Workshop**
   - Luxembourg University, Luxembourg
