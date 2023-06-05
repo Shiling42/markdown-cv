@@ -109,16 +109,14 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
   - ICTP, Italy
   - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
   
+`Mar. 2023`
+**APS March Meeting**
+  - Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+  
 `Dec. 2022`
  **(Post)modern Thermodynamics School & Workshop**
   - Luxembourg University, Luxembourg
   - Poster: Emergent thermophoretic behavior in chemical reaction systems
-
-`Nov. 2022`
-**Biomechanics, Bioengineering and Mathematical Biology Seminar**
-  - Mathematical institute of Serbian Academy of
-Sciences and Arts (Online) 
-  - Invited talk: Non-isothermal chemical reaction networks: hints to the origins of life
 
 `Sep. 2022`
 **School on Information, Noise, and Physics of Life**
@@ -157,10 +155,16 @@ Sciences and Arts (Online)
 - ICTP, Trieste, Italy
 - Poster: The cluster structure of high-efficiency photosystem (PS I)
 
-`Jun. 2018`
+`Jun. 2017` 
  **Introduction to Complex System Summer School**
  - Utrecht University, Utrecht, Netherlands
 
+## Seminars
+1. **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, *May 2023*
+2. **Thermodynamics on the origin and the present of life**, University of Tokyo, Tokyo, *May 2023* 
+3. **Symmetry breaking in the present and origin of life**, USTC, China, *Jan 2023*
+4. **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
+
 <!-- ### Footer
 
-Last updated: Jan 2023-->
+Last updated: June 2023-->
