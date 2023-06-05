@@ -160,10 +160,10 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
  - Utrecht University, Utrecht, Netherlands
 
 ## Seminars
-1. **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, *May 2023*
-2. **Thermodynamics on the origin and the present of life**, University of Tokyo, Tokyo, *May 2023* 
-3. **Symmetry breaking in the present and origin of life**, USTC, China, *Jan 2023*
-4. **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
+- **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, *May 2023*
+- **Thermodynamics on the origin and the present of life**, University of Tokyo, Tokyo, *May 2023* 
+- **Symmetry breaking in the present and origin of life**, USTC, China, *Jan 2023*
+- **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
 
 <!-- ### Footer
 
