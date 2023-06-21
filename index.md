@@ -99,11 +99,16 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 
 ## Schools, Workshops & Conferences
-`Jul. 2023`
+`Aug. 2023`
 **StatPhys28**
   - Tokyo, Japan 
   - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
   
+`Jun. 2023`
+**Molecular Origins of Life, Munich**
+  - Online
+  - Poster: Emergent thermophoretic behavior in chemical reaction systems
+
 `May 2023`
 **Workshop on Stochastic Thermodynamics - WOST IV**
   - ICTP, Italy
