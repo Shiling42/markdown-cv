@@ -84,7 +84,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Publications
 `2023`
-[1] **Liang, Shiling**, Yu-Han Ma and Daniel Maria Busiello, and Paolo De Los Rios. "A minimal model for Carnot efficiency at maximum power", (under preparation)
+[1] **Liang, Shiling**, Yu-Han Ma, Daniel Maria Busiello, and Paolo De Los Rios. "A minimal model for Carnot efficiency at maximum power", (under preparation)
 
 [2] **Liang, Shiling** and Simone Pigolotti. "Thermodynamic bound on event-based time-reversal symmetry breaking", (under preparation)
 
@@ -171,7 +171,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Seminars 
 `2023`
-**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China *May 2023*
+**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *July 2023*
 
 **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, Japan, *May 2023*
 
@@ -185,9 +185,9 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 ## Other activities
 `2022-now`
 **Founder and organizer of the Chinese Early Career Researcher Network in Statistical Physics**
-- Established and maintained the Chinese Early Career Researcher Network in Statistical Physics, a global initiative aimed at fostering collaboration and knowledge exchange among early-career researchers in the field.
+- A global initiative aimed at fostering collaboration and knowledge exchange among Chinese early-career researchers in the field.
 - Successfully attracted and engaged over 130 members from diverse geographical locations, with continued growth in membership.
-- Hosted 2 successful online seminars, held monthly.
+- Hosted 2 successful online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
 
