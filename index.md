@@ -13,7 +13,7 @@ non-equilibrium thermodynamics, biochemical physics, origin of life
 
 ## Education
 
-`2020 - Now`
+`2020 - 2024`
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 *Ph.D. in Physics @ Laboratory of Statistical Biophysics* 
@@ -84,9 +84,9 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Publications
 `2023`
-[1] **Liang, Shiling**, Yu-Han Ma, Paolo De Los Rios, and Daniel Maria Busiello. "A minimal model for Carnot efficiency at maximum power", (under preparation)
+[1] **Liang, Shiling**, Yu-Han Ma and Daniel Maria Busiello, and Paolo De Los Rios. "A minimal model for Carnot efficiency at maximum power", (under preparation)
 
-[2] **Liang, Shiling**, Simone Pigolotti. "Thermodynamic bound on event-based time-reversal symmetry breaking", (under preparation)
+[2] **Liang, Shiling** and Simone Pigolotti. "Thermodynamic bound on event-based time-reversal symmetry breaking", (under preparation)
 
 `2022`
 [3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
@@ -181,6 +181,13 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
+
+## Other activities
+`2022-now`
+**Founder and organizer of the Chinese Early Career Researcher Network in Statistical Physics**
+- Established and maintained the Chinese Early Career Researcher Network in Statistical Physics, a global initiative aimed at fostering collaboration and knowledge exchange among early-career researchers in the field.
+- Successfully attracted and engaged over 130 members from diverse geographical locations, with continued growth in membership.
+- Hosted 2 successful online seminars, held monthly.
 
 <!-- ### Footer
 
