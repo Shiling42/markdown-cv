@@ -83,17 +83,22 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
 
 ## Publications
-`2022`
-[1] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
+`2023`
+[1] **Liang, Shiling**, Yu-Han Ma, Paolo De Los Rios, and Daniel Maria Busiello. "A minimal model for Carnot efficiency at maximum power", (under preparation)
 
-[2] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* 24, no. 12 (2022): 123006.
+[2] **Liang, Shiling**, Simone Pigolotti. "Thermodynamic bound on event-based time-reversal symmetry breaking", (under preparation)
+
+`2022`
+[3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
+
+[4] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* 24, no. 12 (2022): 123006.
 
 `2021`
-[3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
+[5] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
 
-[4] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
+[6] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
   
-[5] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
+[7] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
 
 
 
@@ -164,13 +169,15 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
  **Introduction to Complex System Summer School**
  - Utrecht University, Utrecht, Netherlands
 
-## Seminars
+## Seminars 
 `2023`
-**Thermodynamics on the origin and the present of life**, ELSI, Tokyo, *May 2023*
+**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China *May 2023*
 
-**Thermodynamics on the origin and the present of life**, University of Tokyo, Tokyo, *May 2023* 
+**Thermodynamics on the origin and the present of life**, ELSI, Tokyo, Japan, *May 2023*
 
-**Symmetry breaking in the present and origin of life**, USTC, China, *Jan 2023*
+**Thermodynamics on the origin and the present of life**, University of Tokyo, Tokyo, Japan, *May 2023* 
+
+**Symmetry breaking in the present and origin of life**, USTC, Hefei, China (online), *Jan 2023*
 
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
