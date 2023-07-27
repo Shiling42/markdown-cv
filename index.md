@@ -184,8 +184,8 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Other activities
 `2022-now`
-**Founder and organizer of the Chinese Early Career Researcher Network in Statistical Physics**
-- A global initiative aimed at fostering collaboration and knowledge exchange among Chinese early-career researchers in the field.
+**Founder and organizer of *Statistical Physics Youth Communications***
+- A Chinese early career researcher network in statistical physics.
 - Successfully attracted and engaged over 130 members from diverse geographical locations, with continued growth in membership.
 - Hosted 2 successful online seminars. Future seminars will be held once a month.
 
