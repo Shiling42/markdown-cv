@@ -86,7 +86,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 `2023`
 [1] **Liang, Shiling**, Yu-Han Ma, Daniel Maria Busiello, and Paolo De Los Rios. "A minimal model for Carnot efficiency at maximum power", (under preparation)
 
-[2] **Liang, Shiling** and Simone Pigolotti. "Thermodynamic bound on event-based time-reversal symmetry breaking", (under preparation)
+[2] **Liang, Shiling** and Simone Pigolotti. "[Thermodynamic bounds on time-reversal asymmetry](https://arxiv.org/abs/2308.14497)", *arXiv*, 2308.14497 (2023)
 
 `2022`
 [3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
@@ -171,6 +171,10 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Seminars 
 `2023`
+**Thermodynamic cost to break spatiotemporal symmetry**, BICMR, Peking University, Beijing, *Aug 2023*
+
+**Why must life be out of equilibrium**, Beijing Normal University, Beijing, *Aug 2023*
+  
 **From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *July 2023*
 
 **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, Japan, *May 2023*
