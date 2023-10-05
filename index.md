@@ -17,7 +17,7 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 *Ph.D. in Physics @ Laboratory of Statistical Biophysics* 
-- Supervisor: Prof. Paolo De Los Rios and Dr.Daniel Maria Busiello
+- Supervisor: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
 
 `2018 - 2020`
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
