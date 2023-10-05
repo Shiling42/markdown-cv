@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-non-equilibrium thermodynamics, biochemical physics, origin of life
+non-equilibrium thermodynamics, bioenergetics, origin of life
 
 ## Education
 
@@ -84,22 +84,19 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Publications
 `2023`
-[1] **Liang, Shiling**, Yu-Han Ma, Daniel Maria Busiello, and Paolo De Los Rios. "A minimal model for Carnot efficiency at maximum power", (under preparation)
-
-[2] **Liang, Shiling** and Simone Pigolotti. "[Thermodynamic bounds on time-reversal asymmetry](https://arxiv.org/abs/2308.14497)", *arXiv*, 2308.14497 (2023)
+[6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* arXiv preprint [arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
 
 `2022`
-[3] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Universal thermodynamic bounds on symmetry breaking in biochemical systems", *arXiv*, 2212,12074 (2022)
+[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
 
-[4] **Liang, Shiling**, Daniel Maria Busiello, and Paolo De Los Rios. "Emergent thermophoretic behavior in chemical reaction systems." *New Journal of Physics* 24, no. 12 (2022): 123006.
+[4] **Liang, S.**, Busiello, D.M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006]((https://iopscience.iop.org/article/10.1088/1367-2630/aca556)).
 
 `2021`
-[5] **Liang, Shiling**, Paolo De Los Rios, and Daniel Maria Busiello. "Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales." *Entropy* 23, no. 8 (2021): 1068.
+[3] Liang, S., De Los Rios, P. and Busiello, D.M., 2021. *Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales*. [Entropy, 23(8), p.1068](https://www.mdpi.com/1099-4300/23/8/1068).
 
-[6] Busiello, Daniel Maria, **Shiling Liang**, Francesco Piazza, and Paolo De Los Rios. "Dissipation-driven selection of states in non-equilibrium chemical networks." *Communications Chemistry* 4, no. 1 (2021): 1-7.
+[2] Busiello, D.M., **Liang, S.**, Piazza, F. and De Los Rios, P., 2021. *Dissipation-driven selection of states in non-equilibrium chemical networks*. [Communications Chemistry, 4(1), p.16](https://www.nature.com/articles/s42004-021-00454-w).
   
-[7] Dass, Avinash Vicholous, Thomas Georgelin, Frances Westall, Frédéric Foucher, Paolo De Los Rios, Daniel Maria Busiello, **Shiling Liang**, and Francesco Piazza. "Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network." *Nature communications* 12, no. 1 (2021): 1-10.
-
+[1] Dass, A.V., Georgelin, T., Westall, F., Foucher, F., De Los Rios, P., Busiello, D.M., **Liang, S.** and Piazza, F., 2021. *Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network.* [Nature communications, 12(1), p.2749.](https://www.nature.com/articles/s41467-021-22818-5)
 
 
 
