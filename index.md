@@ -68,7 +68,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - PhD project at LBS, EPFL
   - Supervisors: Prof. Paolo De Los Rios and Daniel Maria Busiello
 
-`Feb. 2019 - Julyy 2020` 
+`Feb. 2019 - July 2020` 
 **Thermodynamic Origins of Life**
   - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
@@ -102,7 +102,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `Sept. 2022`
 **School on Information, Noise, and Physics of Life**, Niš, Serbia
 
-`Julyy 2022`
+`July 2022`
 **7th Beijing Soft Matter Workshop**, Beijing, China, Talk: Emergent thermophoretic behavior for particles with internal states, Best Short Talk Award
   
 `June 2022`
@@ -120,7 +120,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `Aug. 2019`
  **Bad Honnef Physics School: Physics of Bacteria**, Physikzentrum Bad Honnef, Germany
 
-`Julyy 2019`
+`July 2019`
  **Hands-On Research in Complex Systems School**, ICTP, Trieste, Italy, Poster: The cluster structure of high-efficiency photosystem (PS I)
 
 `June 2017` 
@@ -132,7 +132,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 **Why must life be out of equilibrium**, Beijing Normal University, Beijing, *Aug 2023*
   
-**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *Julyy 2023*
+**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *July 2023*
 
 **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, Japan, *May 2023*
 
