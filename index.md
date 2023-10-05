@@ -105,69 +105,46 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Schools, Workshops & Conferences
 `Aug. 2023`
-**StatPhys28**
-  - Tokyo, Japan 
-  - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+**StatPhys28**, Tokyo, Japan, Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
   
 `Jun. 2023`
-**Molecular Origins of Life, Munich**
-  - Online
-  - Poster: Emergent thermophoretic behavior in chemical reaction systems
+**Molecular Origins of Life, Munich**, Online, Poster: Emergent thermophoretic behavior in chemical reaction systems
 
 `May 2023`
-**Workshop on Stochastic Thermodynamics - WOST IV**
-  - ICTP, Italy
-  - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+**Workshop on Stochastic Thermodynamics - WOST IV**, ICTP, Italy, Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
   
 `Mar. 2023`
-**APS March Meeting**
-  - Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+**APS March Meeting**, Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
   
 `Dec. 2022`
- **(Post)modern Thermodynamics School & Workshop**
-  - Luxembourg University, Luxembourg
-  - Poster: Emergent thermophoretic behavior in chemical reaction systems
+ **(Post)modern Thermodynamics School & Workshop**,Luxembourg University, Luxembourg, Poster: Emergent thermophoretic behavior in chemical reaction systems
 
 `Sep. 2022`
-**School on Information, Noise, and Physics of Life**
-  - Niš, Serbia
+**School on Information, Noise, and Physics of Life**, Niš, Serbia
 
 `Jul. 2022`
-**7th Beijing Soft Matter Workshop**
-  - Beijing, China
-  - Talk: Emergent thermophoretic behavior for particles with internal states
-  - Best Short Talk Award
+**7th Beijing Soft Matter Workshop**, Beijing, China, Talk: Emergent thermophoretic behavior for particles with internal states, Best Short Talk Award
   
 `Jun. 2022`
-**Molecular Origins of Life**
-  - Munich, Germany
-  - Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+**Molecular Origins of Life**,Munich, Germany,Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
 
 `May 2021` 
-**14th International meeting on Thermodiffusion**
-  - NTNU, Trondheim, Norway
-  - Poster: Thermophoresis of multi-state particles
+**14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway, Poster: Thermophoresis of multi-state particles
 
 `Sep. 2019`
-**IX GEFENOL Summer School on Statistical Physics of Complex Systems**
- - Universidad de Cantabria, Santander, Spain
+**IX GEFENOL Summer School on Statistical Physics of Complex Systems**, Universidad de Cantabria, Santander, Spain
 
 `Aug. 2019`
-**Mathematics of Deep Learning**
-- Zuse Institute Berlin, Berlin, Germany
+**Mathematics of Deep Learning**, Zuse Institute Berlin, Berlin, Germany
 
 `Aug. 2019`
- **Bad Honnef Physics School: Physics of Bacteria**
- - Physikzentrum Bad Honnef, Germany
+ **Bad Honnef Physics School: Physics of Bacteria**, Physikzentrum Bad Honnef, Germany
 
 `Jul. 2019`
- **Hands-On Research in Complex Systems School** 
-- ICTP, Trieste, Italy
-- Poster: The cluster structure of high-efficiency photosystem (PS I)
+ **Hands-On Research in Complex Systems School**, ICTP, Trieste, Italy, Poster: The cluster structure of high-efficiency photosystem (PS I)
 
 `Jun. 2017` 
- **Introduction to Complex System Summer School**
- - Utrecht University, Utrecht, Netherlands
+ **Introduction to Complex System Summer School**, Utrecht University, Utrecht, Netherlands
 
 ## Seminars 
 `2023`
