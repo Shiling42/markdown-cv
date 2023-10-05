@@ -40,7 +40,7 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 
 ## Research Experiences
 
-`Jan. 2022 - June 2022` 
+`Jan. 2023 - June 2023` 
 **Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
   - JSPS Fellow (Strategic Program)
   - Okinawa Institute of Science and Technology, Japan
@@ -86,7 +86,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 [4] **Liang, S.**, Busiello, D.M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006]((https://iopscience.iop.org/article/10.1088/1367-2630/aca556)).
 
 `2021`
-[3] Liang, S., De Los Rios, P. and Busiello, D.M., 2021. *Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales*. [Entropy, 23(8), p.1068](https://www.mdpi.com/1099-4300/23/8/1068).
+[3] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2021. *Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales*. [Entropy, 23(8), p.1068](https://www.mdpi.com/1099-4300/23/8/1068).
 
 [2] Busiello, D.M., **Liang, S.**, Piazza, F. and De Los Rios, P., 2021. *Dissipation-driven selection of states in non-equilibrium chemical networks*. [Communications Chemistry, 4(1), p.16](https://www.nature.com/articles/s42004-021-00454-w).
   
