@@ -14,57 +14,17 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 ## Education
 
 `2020 - 2024`
-**École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
-
-*Ph.D. in Physics @ Laboratory of Statistical Biophysics* 
-- Supervisor: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
+*Ph.D. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 `2018 - 2020`
-**École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
-
-*M.Sc. in Physics*
-- Thesis: Non-equilibrium chemical reactions under non-isothermal conditions
-- Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
+*M.Sc. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausan
 
 `2016 - 2018`
-**The University of Manchester**, Manchester, UK 
-
-*B.Sc.(Hons) in Physics with Theoretical Physics*
-- First-class honours Degree
+*B.Sc.(Hons) in Physics with Theoretical Physics*, **The University of Manchester**, Manchester, UK 
 
 `2014 - 2018`
-**Beijing Normal University**, Beijing, China
+*B.Sc. in Physics*, **Beijing Normal University**, Beijing, China
 
-*B.Sc. in Physics*
-- Joint degree program with the University of Manchester
-
-## Research Experiences
-
-`Jan. 2023 - June 2023` 
-**Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
-  - JSPS Fellow (Strategic Program)
-  - Okinawa Institute of Science and Technology, Japan
-  - Supervisors: Prof. Simone Pigolotti
-  
-`Sept. 2020 - Now` 
-**Non-equilibrium Chemical Reaction Networks and the Origins of Life** 
-  - PhD project at LBS, EPFL
-  - Supervisors: Prof. Paolo De Los Rios and Daniel Maria Busiello
-
-`Feb. 2019 - Julyy 2020` 
-**Thermodynamic Origins of Life**
-  - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
-  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
-  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
-
-`Feb. 2018 - June 2018`
-**Modelling of Bacterial Bioﬁlms**
-  - B.Sc. Dissertation at the University of Manchester 
-
-`May 2016 - May 2017`
-**Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
-  - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
-  - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Awards, Grants & Honours
 `2023` 
@@ -93,6 +53,33 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 [1] Dass, A.V., Georgelin, T., Westall, F., Foucher, F., De Los Rios, P., Busiello, D.M., **Liang, S.** and Piazza, F., 2021. *Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network.* [Nature communications, 12(1), p.2749.](https://www.nature.com/articles/s41467-021-22818-5)
 
 
+## Research Experiences
+
+`Jan. 2023 - June 2023` 
+**Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
+  - JSPS Fellow (Strategic Program)
+  - Okinawa Institute of Science and Technology, Japan
+  - Supervisors: Prof. Simone Pigolotti
+  
+`Sept. 2020 - Now` 
+**Non-equilibrium Chemical Reaction Networks and the Origins of Life** 
+  - PhD project at LBS, EPFL
+  - Supervisors: Prof. Paolo De Los Rios and Daniel Maria Busiello
+
+`Feb. 2019 - Julyy 2020` 
+**Thermodynamic Origins of Life**
+  - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
+  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
+  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
+
+`Feb. 2018 - June 2018`
+**Modelling of Bacterial Bioﬁlms**
+  - B.Sc. Dissertation at the University of Manchester 
+
+`May 2016 - May 2017`
+**Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
+  - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
+  - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
 
 ## Schools, Workshops & Conferences
 `Aug. 2023`
