@@ -33,8 +33,11 @@ JSPS fellowship for research in Japan (Strategic)
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
+`2016-2017`
+Research Grant of China National University Student Innovation & Entrepreneurship Development Program
+
 `2015-2018` 
-Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disciplines, China
+Scholarship of China National Scheme for Cultivating Top-notch Students in Basic Disciplines
 
 ## Publications
 `2023`
@@ -78,7 +81,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 `May 2016 - May 2017`
 **Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
   - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
-  - Funding: National Training Program of Innovation and Entrepreneurship for Undergraduates (No.201610027101)
+  - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
 
 ## Schools, Workshops & Conferences
 `Aug. 2023`
