@@ -17,7 +17,7 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 *Ph.D. in Physics @ Laboratory of Statistical Biophysics* 
-- Supervisor: Prof. Paolo De Los Rios
+- Supervisor: Prof. Paolo De Los Rios and Dr.Daniel Maria Busiello
 
 `2018 - 2020`
 **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
@@ -45,17 +45,11 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
   - JSPS Fellow (Strategic Program)
   - Okinawa Institute of Science and Technology, Japan
   - Supervisors: Prof. Simone Pigolotti
-
-`Julyy 2022 - Sept. 2022`
-**Two-Component Signal Transduction Systems**
-  - Visiting research student
-  - Okinawa Institute of Science and Technology, Japan
-  - Supervisors: Prof. Simone Pigolotti
   
 `Sept. 2020 - Now` 
-**Non-equilibrium Reaction Networks and the Origins of Life** 
+**Non-equilibrium Chemical Reaction Networks and the Origins of Life** 
   - PhD project at LBS, EPFL
-  - Supervisors: Prof. Paolo De Los Rios
+  - Supervisors: Prof. Paolo De Los Rios and Daniel Maria Busiello
 
 `Feb. 2019 - Julyy 2020` 
 **Thermodynamic Origins of Life**
@@ -84,10 +78,10 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Publications
 `2023`
-[6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* arXiv preprint [arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
+[6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* [arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
 
 `2022`
-[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
+[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
 
 [4] **Liang, S.**, Busiello, D.M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006]((https://iopscience.iop.org/article/10.1088/1367-2630/aca556)).
 
@@ -165,7 +159,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 **Founder and organizer of *Statistical Physics Youth Communications***
 - A Chinese early career researcher network in statistical physics.
 - Successfully attracted and engaged over 130 members from diverse geographical locations, with continued growth in membership.
-- Hosted 2 successful online seminars. Future seminars will be held once a month.
+- Hosted 3 successful online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
 
