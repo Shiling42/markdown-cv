@@ -17,7 +17,7 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 *Ph.D. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 `2018 - 2020`
-*M.Sc. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausan
+*M.Sc. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 `2016 - 2018`
 *B.Sc.(Hons) in Physics with Theoretical Physics*, **The University of Manchester**, Manchester, UK 
@@ -38,10 +38,10 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 ## Publications
 `2023`
-[6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* [arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
+[6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* [arXiv preprint, arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
 
 `2022`
-[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
+[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint, arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
 
 [4] **Liang, S.**, Busiello, D.M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006]((https://iopscience.iop.org/article/10.1088/1367-2630/aca556)).
 
@@ -57,8 +57,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 
 `Jan. 2023 - June 2023` 
 **Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
-  - JSPS Fellow (Strategic Program)
-  - Okinawa Institute of Science and Technology, Japan
+  - JSPS Fellow (Strategic Program) @ Okinawa Institute of Science and Technology, Japan
   - Supervisors: Prof. Simone Pigolotti
   
 `Sept. 2020 - Now` 
@@ -70,7 +69,7 @@ Scholarship of National Scheme for Cultivating Top-notch Students in Basic Disci
 **Thermodynamic Origins of Life**
   - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
-  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Condition
+  - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Conditions
 
 `Feb. 2018 - June 2018`
 **Modelling of Bacterial Bioﬁlms**
