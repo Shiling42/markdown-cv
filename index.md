@@ -20,7 +20,7 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 *M.Sc. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
 `2016 - 2018`
-*B.Sc.(Hons) in Physics with Theoretical Physics*, **The University of Manchester**, Manchester, UK 
+*B.Sc. in Physics*, **The University of Manchester**, Manchester, United Kingdom
 
 `2014 - 2018`
 *B.Sc. in Physics*, **Beijing Normal University**, Beijing, China
@@ -28,7 +28,7 @@ non-equilibrium thermodynamics, bioenergetics, origin of life
 
 ## Awards, Grants & Honours
 `2023` 
-JSPS fellowship for research in Japan (Strategic)
+JSPS Strategic Fellowship for research in Japan (5 months)
 
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
@@ -57,16 +57,15 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 
 ## Research Experiences
-
 `Jan. 2023 - June 2023` 
 **Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
   - JSPS Fellow (Strategic Program) @ Okinawa Institute of Science and Technology, Japan
-  - Supervisors: Prof. Simone Pigolotti
+  - Supervisor: Prof. Simone Pigolotti
   
 `Sept. 2020 - Now` 
 **Non-equilibrium Chemical Reaction Networks and the Origins of Life** 
   - PhD project at LBS, EPFL
-  - Supervisors: Prof. Paolo De Los Rios and Daniel Maria Busiello
+  - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
 
 `Feb. 2019 - July 2020` 
 **Thermodynamic Origins of Life**
@@ -85,31 +84,31 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Schools, Workshops & Conferences
 `Aug. 2023`
-**StatPhys28**, Tokyo, Japan, Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+**StatPhys28**, Tokyo, Japan, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
   
 `June 2023`
-**Molecular Origins of Life, Munich**, Online, Poster: Emergent thermophoretic behavior in chemical reaction systems
+**Molecular Origins of Life, Munich**, Online, *Poster: Emergent thermophoretic behavior in chemical reaction systems*
 
 `May 2023`
-**Workshop on Stochastic Thermodynamics - WOST IV**, ICTP, Italy, Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+**Workshop on Stochastic Thermodynamics - WOST IV**, ICTP, Italy, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
   
 `Mar. 2023`
-**APS March Meeting**, Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+**APS March Meeting**, *Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
   
 `Dec. 2022`
- **(Post)modern Thermodynamics School & Workshop**,Luxembourg University, Luxembourg, Poster: Emergent thermophoretic behavior in chemical reaction systems
+ **(Post)modern Thermodynamics School & Workshop**, Luxembourg University, Luxembourg, *Poster: Emergent thermophoretic behavior in chemical reaction systems*
 
 `Sept. 2022`
 **School on Information, Noise, and Physics of Life**, Niš, Serbia
 
 `July 2022`
-**7th Beijing Soft Matter Workshop**, Beijing, China, Talk: Emergent thermophoretic behavior for particles with internal states, Best Short Talk Award
+**7th Beijing Soft Matter Workshop**, Beijing, China, *Contributed Talk: Emergent thermophoretic behavior for particles with internal states* (Best Short Talk Award)
   
 `June 2022`
-**Molecular Origins of Life**,Munich, Germany,Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+**Molecular Origins of Life**,Munich, Germany, *Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
 
 `May 2021` 
-**14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway, Poster: Thermophoresis of multi-state particles
+**14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway (Online), *Poster: Thermophoresis of multi-state particles*
 
 `Sept. 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**, Universidad de Cantabria, Santander, Spain
@@ -128,9 +127,9 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Seminars 
 `2023`
-**Thermodynamic cost to break spatiotemporal symmetry**, BICMR, Peking University, Beijing, *Aug 2023*
+**Thermodynamic cost to break spatiotemporal symmetry**, BICMR, Peking University, Beijing, China, *Aug 2023*
 
-**Why must life be out of equilibrium**, Beijing Normal University, Beijing, *Aug 2023*
+**Why must life be out of equilibrium**, Beijing Normal University, Beijing, China, *Aug 2023*
   
 **From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *July 2023*
 
@@ -138,7 +137,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 **Thermodynamics on the origin and the present of life**, University of Tokyo, Tokyo, Japan, *May 2023* 
 
-**Symmetry breaking in the present and origin of life**, USTC, Hefei, China (online), *Jan 2023*
+**Symmetry breaking in the present and origin of life**, USTC, Hefei, China (Online), *Jan 2023*
 
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
