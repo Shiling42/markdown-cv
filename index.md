@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-non-equilibrium thermodynamics, bioenergetics, origin of life
+out-of-equilibrium thermodynamics, bioenergetics, biological physics
 
 ## Education
 
@@ -78,7 +78,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - B.Sc. Dissertation at the University of Manchester 
 
 `May 2016 - May 2017`
-**Complex Network Approach for the High Eﬃciency Light-Harvesting System** 
+**Complex Network Approach for the High Efficiency Light-Harvesting System** 
   - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
 
@@ -144,10 +144,10 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Other activities
 `2022-now`
-**Founder and organizer of *Statistical Physics Youth Communications***
+**Creator and organizer of *Statistical Physics Youth Communications***
 - A Chinese early career researcher network in statistical physics.
-- Successfully attracted and engaged over 130 members from diverse geographical locations, with continued growth in membership.
-- Hosted 3 successful online seminars. Future seminars will be held once a month.
+- Successfully attracted and engaged over 150 members from diverse geographical locations, with continued growth in membership.
+- Hosted 4 successful online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
 
