@@ -33,10 +33,10 @@ JSPS Strategic Fellowship for research in Japan (5 months)
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
-`2016-2017`
+`2016 - 2017`
 Research Grant of China National University Student Innovation & Entrepreneurship Development Program
 
-`2015-2018` 
+`2015 - 2018` 
 Scholarship of China National Scheme for Cultivating Top-notch Students in Basic Disciplines
 
 ## Publications
@@ -57,23 +57,23 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 
 ## Research Experiences
-`Jan. 2023 - June 2023` 
+`Jan 2023 - Jun 2023` 
 **Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
   - JSPS Fellow (Strategic Program) @ Okinawa Institute of Science and Technology, Japan
   - Supervisor: Prof. Simone Pigolotti
   
-`Sept. 2020 - Now` 
+`Sep 2020 - Now` 
 **Non-equilibrium Chemical Reaction Networks and the Origins of Life** 
   - PhD project at LBS, EPFL
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
 
-`Feb. 2019 - July 2020` 
+`Feb 2019 - Jul 2020` 
 **Thermodynamic Origins of Life**
   - Semester projects and master project at Lab of Statistical Biophysics (LBS), EPFL
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
   - Master Thesis: Non-equilibrium Chemical Reactions under Non-Isothermal Conditions
 
-`Feb. 2018 - June 2018`
+`Feb 2018 - Jun 2018`
 **Modelling of Bacterial Bioﬁlms**
   - B.Sc. Dissertation at the University of Manchester 
 
@@ -83,46 +83,46 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
 
 ## Schools, Workshops & Conferences
-`Aug. 2023`
+`Aug 2023`
 **StatPhys28**, Tokyo, Japan, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
   
-`June 2023`
+`Jun 2023`
 **Molecular Origins of Life, Munich**, Online, *Poster: Emergent thermophoretic behavior in chemical reaction systems*
 
 `May 2023`
 **Workshop on Stochastic Thermodynamics - WOST IV**, ICTP, Italy, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
   
-`Mar. 2023`
+`Mar 2023`
 **APS March Meeting**, *Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
   
-`Dec. 2022`
+`Dec 2022`
  **(Post)modern Thermodynamics School & Workshop**, Luxembourg University, Luxembourg, *Poster: Emergent thermophoretic behavior in chemical reaction systems*
 
-`Sept. 2022`
+`Sep 2022`
 **School on Information, Noise, and Physics of Life**, Niš, Serbia
 
-`July 2022`
+`Jul 2022`
 **7th Beijing Soft Matter Workshop**, Beijing, China, *Contributed Talk: Emergent thermophoretic behavior for particles with internal states* (Best Short Talk Award)
   
-`June 2022`
+`Jun 2022`
 **Molecular Origins of Life**,Munich, Germany, *Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
 
 `May 2021` 
 **14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway (Online), *Poster: Thermophoresis of multi-state particles*
 
-`Sept. 2019`
+`Sep 2019`
 **IX GEFENOL Summer School on Statistical Physics of Complex Systems**, Universidad de Cantabria, Santander, Spain
 
-`Aug. 2019`
+`Aug 2019`
 **Mathematics of Deep Learning**, Zuse Institute Berlin, Berlin, Germany
 
-`Aug. 2019`
+`Aug 2019`
  **Bad Honnef Physics School: Physics of Bacteria**, Physikzentrum Bad Honnef, Germany
 
-`July 2019`
+`Jul 2019`
  **Hands-On Research in Complex Systems School**, ICTP, Trieste, Italy, Poster: The cluster structure of high-efficiency photosystem (PS I)
 
-`June 2017` 
+`Jun 2017` 
  **Introduction to Complex System Summer School**, Utrecht University, Utrecht, Netherlands
 
 ## Seminars 
@@ -131,7 +131,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 **Why must life be out of equilibrium**, Beijing Normal University, Beijing, China, *Aug 2023*
   
-**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *July 2023*
+**From origins of life to thermodynamic bounds on symmetry breaking**, Peking University, Beijing, China, *Jul 2023*
 
 **Thermodynamics on the origin and the present of life**, ELSI, Tokyo, Japan, *May 2023*
 
@@ -151,4 +151,4 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 <!-- ### Footer
 
-Last updated: June 2023-->
+Last updated: Oct 2023-->
