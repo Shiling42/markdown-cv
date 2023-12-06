@@ -41,6 +41,8 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Publications
 `2023`
+[7] **Liang, S.**, Ma, Y.-H., Busiello, D.M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power.*, [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
+
 [6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* [arXiv preprint, arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
 
 `2022`
@@ -63,7 +65,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - Supervisor: Prof. Simone Pigolotti
   
 `Sep 2020 - Now` 
-**Non-equilibrium Chemical Reaction Networks and the Origins of Life** 
+**Thermodynamics Costs of Spatiotemporal Symmetry Breaking** 
   - PhD project at LBS, EPFL
   - Supervisors: Prof. Paolo De Los Rios and Dr. Daniel Maria Busiello
 
