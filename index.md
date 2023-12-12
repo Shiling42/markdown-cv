@@ -43,7 +43,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `2023`
 [7] **Liang, S.**, Ma, Y.-H., Busiello, D.M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power.*, [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
 
-[6] **Liang, S.** and Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry.* [arXiv preprint, arXiv:2308.14497](https://arxiv.org/abs/2308.14497). 
+[6] **Liang, S.**, Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry*. [Phys. Rev. E 108, L062101 (Letter)](https://doi.org/10.1103/PhysRevE.108.L062101).
 
 `2022`
 [5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint, arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
@@ -129,6 +129,10 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Seminars 
 `2023`
+**Thermodynamic cost of spatiotemporal symmetry breaking**, LMU, Munich, Germany, *Nov 2023*
+
+**Thermodynamic cost of time-reversal symmetry breaking**, MPI-PKS, Dresden, Germany, *Nov 2023*
+
 **Thermodynamic cost to break spatiotemporal symmetry**, BICMR, Peking University, Beijing, China, *Aug 2023*
 
 **Why must life be out of equilibrium**, Beijing Normal University, Beijing, China, *Aug 2023*
