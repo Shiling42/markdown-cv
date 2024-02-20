@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-out-of-equilibrium thermodynamics, bioenergetics, biological physics
+out-of-equilibrium thermodynamics, chemical reaction theory, biological physics
 
 ## Education
 
@@ -110,7 +110,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 **7th Beijing Soft Matter Workshop**, Beijing, China, *Contributed Talk: Emergent thermophoretic behavior for particles with internal states* (Best Short Talk Award)
   
 `Jun 2022`
-**Molecular Origins of Life**,Munich, Germany, *Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
+**Molecular Origins of Life**, Munich, Germany, *Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
 
 `May 2021` 
 **14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway (Online), *Poster: Thermophoresis of multi-state particles*
