@@ -28,7 +28,7 @@ out-of-equilibrium thermodynamics, chemical reaction theory, biological physics
 
 ## Awards, Grants & Honours
 `2024`
-APS DBIO Travel Awards
+APS DBIO Travel Awards (declined)
 
 `2023` 
 JSPS Strategic Fellowship for research in Japan
