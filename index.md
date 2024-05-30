@@ -28,6 +28,9 @@ out-of-equilibrium thermodynamics, chemical reaction theory, biological physics
 
 ## Awards, Grants & Honours
 `2024`
+ELBE Postdoctoral Fellowship, CSBD
+
+`2024`
 APS DBIO Travel Awards (declined)
 
 `2023` 
@@ -49,7 +52,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 [6] **Liang, S.**, Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry*. [Phys. Rev. E (Letter) 108, L062101](https://doi.org/10.1103/PhysRevE.108.L062101).
 
 `2022`
-[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint, arXiv:2212.12074](https://arxiv.org/abs/2212.12074).
+[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint, arXiv:2212.12074](https://arxiv.org/abs/2212.12074). ([Accepted for publication in PRL](https://journals.aps.org/prl/accepted/c6079Y58T10125994379811299647c3ae2227eaab))
 
 [4] **Liang, S.**, Busiello, D.M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006]((https://iopscience.iop.org/article/10.1088/1367-2630/aca556)).
 
@@ -88,6 +91,12 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
 
 ## Schools, Workshops & Conferences
+`Mar 2024`
+**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, Dresden, Germany,* Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
+
+`Jan. 2024`
+**Modeling energy-consuming biomolecular processes**, Lausanne, Switzerland, *Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
+
 `Aug 2023`
 **StatPhys28**, Tokyo, Japan, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
   
@@ -131,6 +140,10 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
  **Introduction to Complex System Summer School**, Utrecht University, Utrecht, Netherlands
 
 ## Seminars 
+`2024`
+
+**Thermodynamic Constraints on Biological Processes**, CSBD, Dresden, Germany, *May 2024*
+
 `2023`
 **Thermodynamic cost of spatiotemporal symmetry breaking**, LMU, Munich, Germany, *Nov 2023*
 
@@ -155,7 +168,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `2022-now`
 **Creator and organizer of *Statistical Physics Youth Communications***
 - A Chinese early career researcher network in statistical physics.
-- Successfully attracted and engaged over 160 members from diverse geographical locations, with continued growth in membership.
+- Successfully attracted and engaged over 190 members from diverse geographical locations, with continued growth in membership.
 - Hosted 6 online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
