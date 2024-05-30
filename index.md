@@ -139,7 +139,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `Jun 2017` 
  **Introduction to Complex System Summer School**, Utrecht University, Utrecht, Netherlands
 
-## Seminars 
+## Invited Talks
 `2024`
 
 **Thermodynamic Constraints on Biological Processes**, CSBD, Dresden, Germany, *May 2024*
