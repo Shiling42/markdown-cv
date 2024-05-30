@@ -92,7 +92,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Schools, Workshops & Conferences
 `Mar 2024`
-**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, Dresden, Germany,* Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
+**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, Dresden, Germany, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
 
 `Jan. 2024`
 **Modeling energy-consuming biomolecular processes**, Lausanne, Switzerland, *Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
