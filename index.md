@@ -46,14 +46,15 @@ Research Grant of China National University Student Innovation & Entrepreneurshi
 Scholarship of China National Scheme for Cultivating Top-notch Students in Basic Disciplines
 
 ## Publications
-`2023`
-[7] **Liang, S.**, Ma, Y.-H., Busiello, D.M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power.*, [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
+`2024`
+[7] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*, [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
 
-[6] **Liang, S.**, Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry*. [Phys. Rev. E (Letter) 108, L062101](https://doi.org/10.1103/PhysRevE.108.L062101).
+`2023`
+[6] **Liang, S.**, Ma, Y.-H., Busiello, D.M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
+
+[5] **Liang, S.**, Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry*. [Phys. Rev. E (Letter) 108, L062101](https://doi.org/10.1103/PhysRevE.108.L062101).
 
 `2022`
-[5] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2022. *Universal thermodynamic bounds on symmetry breaking in biochemical systems.* [arXiv preprint, arXiv:2212.12074](https://arxiv.org/abs/2212.12074). ([Accepted for publication in PRL](https://journals.aps.org/prl/accepted/c6079Y58T10125994379811299647c3ae2227eaab))
-
 [4] **Liang, S.**, Busiello, D.M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006]((https://iopscience.iop.org/article/10.1088/1367-2630/aca556)).
 
 `2021`
