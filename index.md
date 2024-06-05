@@ -142,7 +142,6 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Invited Talks
 `2024`
-
 **Thermodynamic Constraints on Biological Processes**, ELBE Symposium, Dresden, Germany, *May 2024*
 
 `2023`
