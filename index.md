@@ -9,7 +9,7 @@ title: Shiling Liang's CV
 </div>
 ### Research interests
 
-out-of-equilibrium thermodynamics, chemical reaction theory, biological physics
+stochastic thermodynamics, chemical reaction theory, biological physics
 
 ## Education
 
@@ -28,13 +28,13 @@ out-of-equilibrium thermodynamics, chemical reaction theory, biological physics
 
 ## Awards, Grants & Honours
 `2024`
-ELBE Postdoctoral Fellowship, CSBD
+ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD) 
 
 `2024`
-APS DBIO Travel Awards (declined)
+APS DBIO Travel Awards (declined due to visa issue)
 
 `2023` 
-JSPS Strategic Fellowship for research in Japan
+Japan Society for the Promotion of Science (JSPS) Strategic Fellowship
 
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
@@ -143,7 +143,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 ## Invited Talks
 `2024`
 
-**Thermodynamic Constraints on Biological Processes**, CSBD, Dresden, Germany, *May 2024*
+**Thermodynamic Constraints on Biological Processes**, ELBE Symposium, Dresden, Germany, *May 2024*
 
 `2023`
 **Thermodynamic cost of spatiotemporal symmetry breaking**, LMU, Munich, Germany, *Nov 2023*
@@ -167,10 +167,10 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Other activities
 `2022-now`
-**Creator and organizer of *Statistical Physics Youth Communications***
-- A Chinese early career researcher network in statistical physics.
-- Successfully attracted and engaged over 190 members from diverse geographical locations, with continued growth in membership.
-- Hosted 6 online seminars. Future seminars will be held once a month.
+**Founder of *Statistical Physics Youth Communications***
+- A Chinese early career researcher network in statistical and biological physics.
+- Successfully attracted and engaged over 200 members from diverse geographical locations, with continued growth in membership.
+- Hosted 7 online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
 
