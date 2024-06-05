@@ -12,7 +12,6 @@ title: Shiling Liang's CV
 stochastic thermodynamics, chemical reaction theory, biological physics
 
 ## Education
-
 `2020 - 2024`
 *Ph.D. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
 
@@ -92,10 +91,10 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
 
 ## Schools, Workshops & Conferences
-`Mar 2024`
+`Apr 2024`
 **Information Processing, Noise, and Adaptation in Living Systems - Signal24**, Dresden, Germany, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
 
-`Jan. 2024`
+`Jan 2024`
 **Modeling energy-consuming biomolecular processes**, Lausanne, Switzerland, *Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
 
 `Aug 2023`
