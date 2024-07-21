@@ -46,9 +46,9 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Publications
 `2024`
-[8] **Liang, S.**, Rios, P. D. L., & Busiello, D. M. (2024). Thermodynamic Space of Chemical Reaction Networks. [arXiv preprint arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+[8] **Liang, S.**, Rios, P. D. L., & Busiello, D. M., 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
 
-[7] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*, [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
+[7] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*. [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
 
 `2023`
 [6] **Liang, S.**, Ma, Y.-H., Busiello, D.M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
