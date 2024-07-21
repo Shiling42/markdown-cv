@@ -46,6 +46,8 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 
 ## Publications
 `2024`
+[8] **Liang, S.**, Rios, P. D. L., & Busiello, D. M. (2024). Thermodynamic Space of Chemical Reaction Networks. [arXiv preprint arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+
 [7] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*, [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
 
 `2023`
@@ -91,11 +93,14 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
 
 ## Schools, Workshops & Conferences
+`Jul 2024`
+**Frontiers in Non-equilibrium Physics 2024**, YITP, Kyoto, Japan, *Contributed talk: A Minimal model for Carnot efficiency at maximum power*
+
 `Apr 2024`
-**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, Dresden, Germany, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
+**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, MPI-PKS, Dresden, Germany, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
 
 `Jan 2024`
-**Modeling energy-consuming biomolecular processes**, Lausanne, Switzerland, *Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
+**Modeling energy-consuming biomolecular processes**, CECAM, Lausanne, Switzerland, *Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
 
 `Aug 2023`
 **StatPhys28**, Tokyo, Japan, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
