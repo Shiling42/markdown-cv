@@ -167,10 +167,10 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 ## Other activities
 `2022-now`
 **Founder of *Statistical Physics Youth Communications***
-- A Chinese early career researcher network in statistical and biological physics.
-- Successfully attracted and engaged over 200 members from diverse geographical locations, with continued growth in membership.
-- Hosted 7 online seminars. Future seminars will be held once a month.
+- A Chinese early career researchers network in statistical and biological physics.
+- Successfully attracted and engaged over 210 members from diverse geographical locations, with continued growth in membership.
+- Hosted 9 online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
 
-Last updated: Oct 2023-->
+Last updated: Aug 2024-->
