@@ -5,24 +5,39 @@ title: Shiling Liang's CV
 # Shiling Liang
 <div id="webaddress">
 <a href="https://shilingliang.com">shilingliang.com</a>
-| <a href="mailto:liangshiling42@gmail.com">liangshiling42@gmail.com</a>
+| <a href="mailto:shiling@pks.mpg.de">shiling@pks.mpg.de</a>
 </div>
 ### Research interests
 
 stochastic thermodynamics, chemical reaction theory, biological physics
 
+
+## Professional Experiences
+`2024 - now`
+*ELBE Postdoctoral Fellow*<br> 
+**Center for System Biology Dresden (CSBD) | Max Planck Institute for Physics of Complex Systems (PKS) | Cell Biology and Genetics (CBG)**, Dresden, Germany
+
+`2023`
+*JSPS Fellow (Strategic Program)*<br> 
+ **Okinawa Institute of Science and Technology (OIST)**, Okinawa, Japan
+
+
 ## Education
 `2020 - 2024`
-*Ph.D. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
+*Ph.D. in Physics*<br> 
+**École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
 
 `2018 - 2020`
-*M.Sc. in Physics*, **École Polytechnique Fédérale de Lausanne**, Lausanne, Switzerland
+*M.Sc. in Physics*<br> 
+**École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
 
 `2016 - 2018`
-*B.Sc. in Physics*, **The University of Manchester**, Manchester, United Kingdom
+*B.Sc. in Physics*<br> 
+**The University of Manchester**, Manchester, United Kingdom
 
 `2014 - 2018`
-*B.Sc. in Physics*, **Beijing Normal University**, Beijing, China
+*B.Sc. in Physics*<br> 
+**Beijing Normal University**, Beijing, China
 
 
 ## Awards, Grants & Honours
@@ -65,7 +80,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
   
 [1] Dass, A.V., Georgelin, T., Westall, F., Foucher, F., De Los Rios, P., Busiello, D. M., **Liang, S.** and Piazza, F., 2021. *Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network.* [Nature communications, 12(1), p.2749.](https://www.nature.com/articles/s41467-021-22818-5)
 
-
+<!-- 
 ## Research Experiences
 `Jan 2023 - Jun 2023` 
 **Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**
@@ -86,59 +101,8 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `May 2016 - May 2017`
 **Complex Network Approach for the High Efficiency Light-Harvesting System** 
   - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
-  - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101)
+  - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101) -->
 
-## Schools, Workshops & Conferences
-`Jul 2024`
-**Frontiers in Non-equilibrium Physics 2024**, YITP, Kyoto, Japan, *Contributed talk: A Minimal model for Carnot efficiency at maximum power*
-
-`Apr 2024`
-**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, MPI-PKS, Dresden, Germany, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
-
-`Jan 2024`
-**Modeling energy-consuming biomolecular processes**, CECAM, Lausanne, Switzerland, *Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
-
-`Aug 2023`
-**StatPhys28**, Tokyo, Japan, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
-  
-`Jun 2023`
-**Molecular Origins of Life, Munich**, Online, *Poster: Emergent thermophoretic behavior in chemical reaction systems*
-
-`May 2023`
-**Workshop on Stochastic Thermodynamics - WOST IV**, ICTP, Italy, *Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation*
-  
-`Mar 2023`
-**APS March Meeting**, *Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
-  
-`Dec 2022`
- **(Post)modern Thermodynamics School & Workshop**, Luxembourg University, Luxembourg, *Poster: Emergent thermophoretic behavior in chemical reaction systems*
-
-`Sep 2022`
-**School on Information, Noise, and Physics of Life**, Niš, Serbia
-
-`Jul 2022`
-**7th Beijing Soft Matter Workshop**, Beijing, China, *Contributed Talk: Emergent thermophoretic behavior for particles with internal states* (Best Short Talk Award)
-  
-`Jun 2022`
-**Molecular Origins of Life**, Munich, Germany, *Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking*
-
-`May 2021` 
-**14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway (Online), *Poster: Thermophoresis of multi-state particles*
-
-`Sep 2019`
-**IX GEFENOL Summer School on Statistical Physics of Complex Systems**, Universidad de Cantabria, Santander, Spain
-
-`Aug 2019`
-**Mathematics of Deep Learning**, Zuse Institute Berlin, Berlin, Germany
-
-`Aug 2019`
- **Bad Honnef Physics School: Physics of Bacteria**, Physikzentrum Bad Honnef, Germany
-
-`Jul 2019`
- **Hands-On Research in Complex Systems School**, ICTP, Trieste, Italy, Poster: The cluster structure of high-efficiency photosystem (PS I)
-
-`Jun 2017` 
- **Introduction to Complex System Summer School**, Utrecht University, Utrecht, Netherlands
 
 ## Invited Talks
 `2024`
@@ -164,12 +128,6 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
 
-## Other activities
-`2022-now`
-**Founder of *Statistical Physics Youth Communications***
-- A Chinese early career researchers network in statistical and biological physics.
-- Successfully attracted and engaged over 210 members from diverse geographical locations, with continued growth in membership.
-- Hosted 9 online seminars. Future seminars will be held once a month.
 
 <!-- ### Footer
 
