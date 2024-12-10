@@ -63,12 +63,13 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 \* Corresponding author
 
 `2024`
-[8] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+[8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323) [Phys. Rev. Lett. (accepted)](https://journals.aps.org/prl/accepted/df07bY53Z9016e8de4e476f8235b306a05c4f0b70).
 
-[7] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*. [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
+[7] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+
+[6] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*. [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
 
 `2023`
-[6] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
 
 [5] **Liang, S.**, Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry*. [Phys. Rev. E (Letter) 108, L062101](https://doi.org/10.1103/PhysRevE.108.L062101).
 
