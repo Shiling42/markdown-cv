@@ -13,11 +13,11 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 
 
 ## Professional Experiences
-`2024 - now`
+`Nov 2024 - now`
 *ELBE Postdoctoral Fellow*<br> 
 **Center for System Biology Dresden (CSBD) | Max Planck Institute for Physics of Complex Systems (PKS) | Cell Biology and Genetics (CBG)**, Dresden, Germany
 
-`2023`
+`Jan 2023 - May 2023`
 *JSPS Fellow (Strategic Program)*<br> 
  **Okinawa Institute of Science and Technology (OIST)**, Okinawa, Japan
 
@@ -31,7 +31,7 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 *M.Sc. in Physics*<br> 
 **École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
 
-`2016 - 2018`
+`2016 -  2018`
 *B.Sc. in Physics*<br> 
 **The University of Manchester**, Manchester, United Kingdom
 
@@ -60,25 +60,27 @@ Research Grant of China National University Student Innovation & Entrepreneurshi
 Scholarship of China National Scheme for Cultivating Top-notch Students in Basic Disciplines
 
 ## Publications
-`2024`
-[8] **Liang, S.**, De Los Rios, P. and Busiello, D. M., 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+\* Corresponding author
 
-[7] **Liang, S.**, De Los Rios, P. and Busiello, D. M., 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*. [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
+`2024`
+[8] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+
+[7] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*. [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
 
 `2023`
-[6] **Liang, S.**, Ma, Y.-H., Busiello, D. M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
+[6] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323).
 
 [5] **Liang, S.**, Pigolotti, S., 2023. *Thermodynamic bounds on time-reversal asymmetry*. [Phys. Rev. E (Letter) 108, L062101](https://doi.org/10.1103/PhysRevE.108.L062101).
 
 `2022`
-[4] **Liang, S.**, Busiello, D. M. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006](https://iopscience.iop.org/article/10.1088/1367-2630/aca556).
+[4] **Liang, S.**, Busiello, D. M\*. and De Los Rios, P., 2022. *Emergent thermophoretic behavior in chemical reaction systems*. [New Journal of Physics, 24(12), p.123006](https://iopscience.iop.org/article/10.1088/1367-2630/aca556).
 
 `2021`
-[3] **Liang, S.**, De Los Rios, P. and Busiello, D.M., 2021. *Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales*. [Entropy, 23(8), p.1068](https://www.mdpi.com/1099-4300/23/8/1068).
+[3] **Liang, S.**, De Los Rios, P. and Busiello, D.M\*., 2021. *Dissipation-Driven Selection under Finite Diffusion: Hints from Equilibrium and Separation of Time Scales*. [Entropy, 23(8), p.1068](https://www.mdpi.com/1099-4300/23/8/1068).
 
-[2] Busiello, D.M., **Liang, S.**, Piazza, F. and De Los Rios, P., 2021. *Dissipation-driven selection of states in non-equilibrium chemical networks*. [Communications Chemistry, 4(1), p.16](https://www.nature.com/articles/s42004-021-00454-w).
+[2] Busiello, D.M.\*, **Liang, S.**, Piazza, F. and De Los Rios, P., 2021. *Dissipation-driven selection of states in non-equilibrium chemical networks*. [Communications Chemistry, 4(1), p.16](https://www.nature.com/articles/s42004-021-00454-w).
   
-[1] Dass, A.V., Georgelin, T., Westall, F., Foucher, F., De Los Rios, P., Busiello, D. M., **Liang, S.** and Piazza, F., 2021. *Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network.* [Nature communications, 12(1), p.2749.](https://www.nature.com/articles/s41467-021-22818-5)
+[1] Dass, A.V., Georgelin, T., Westall, F., Foucher, F., De Los Rios, P., Busiello, D. M., **Liang, S.** and Piazza, F.\*, 2021. *Equilibrium and non-equilibrium furanose selection in the ribose isomerisation network.* [Nature communications, 12(1), p.2749.](https://www.nature.com/articles/s41467-021-22818-5)
 
 <!-- 
 ## Research Experiences
