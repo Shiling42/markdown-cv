@@ -62,7 +62,12 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 ## Publications
 \* Corresponding author
 
+`2025`
+[10] Cao, Y.\* and **Liang, S.**\*, 2025. *Stochastic thermodynamics for biological functions*. [Quantitative Biology, 13(1), p.e75.](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.75)
+
 `2024`
+[9] Bao, R.\* and **Liang, S.**\*, 2024. *Nonequilibrium Response Theory: From Precision Limits to Strong Perturbation*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
+
 [8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2023. *A Minimal Model for Carnot Efficiency at Maximum Power*. [arXiv preprint, arXiv:2312.02323](https://arxiv.org/abs/2312.02323) [Phys. Rev. Lett. (accepted)](https://journals.aps.org/prl/accepted/df07bY53Z9016e8de4e476f8235b306a05c4f0b70).
 
 [7] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
