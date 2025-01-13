@@ -63,7 +63,7 @@ Scholarship of China National Scheme for Cultivating Top-notch Students in Basic
 \* Corresponding author
 
 `2025`
-[10] **Liang, S.**, Ma, Y.-H., Busiello, D. M. and De Los Rios, P., 2025. *A Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
+[10] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *A Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
 
 [9] Cao, Y.\* and **Liang, S.**\*, 2025. *Stochastic thermodynamics for biological functions*. [Quantitative Biology, 13(1), p.e75.](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.75)
 
