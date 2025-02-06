@@ -31,13 +31,11 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 *M.Sc. in Physics*<br> 
 **École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
 
-`2016 -  2018`
+`2014 -  2018`
 *B.Sc. in Physics*<br> 
+**Beijing Normal University**, Beijing, China<br> 
 **The University of Manchester**, Manchester, United Kingdom
 
-`2014 - 2018`
-*B.Sc. in Physics*<br> 
-**Beijing Normal University**, Beijing, China
 
 
 ## Awards, Grants & Honours
@@ -53,24 +51,24 @@ Japan Society for the Promotion of Science (JSPS) Strategic Fellowship
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
-`2016 - 2017`
-Research Grant of China National University Student Innovation & Entrepreneurship Development Program
 
-`2015 - 2018` 
-Scholarship of China National Scheme for Cultivating Top-notch Students in Basic Disciplines
-
-## Publications
+## Preprints
 \* Corresponding author
 
-`2025`
-[10] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
+[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonequilibrium Response Theory: From Precision Limits to Strong Perturbation*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
 
-[9] Cao, Y.\* and **Liang, S.**\*, 2025. *Stochastic thermodynamics for biological functions*. [Quantitative Biology, 13(1), p.e75.](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.75)
+[9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+
+## Publications
+
+
+`2025`
+[8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
+(Featured in [Phys.org](https://phys.org/news/2025-01-rethinking-carnot-scientists-traditional-power.html) and [Interesting Engineering](https://interestingengineering.com/innovation/chinese-scientists-overcome-power-efficiency-trade-off))
+
+[7] Cao, Y.\* and **Liang, S.**\*, 2025. *Stochastic thermodynamics for biological functions*. [Quantitative Biology, 13(1), p.e75.](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.75)
 
 `2024`
-[8] Bao, R.\* and **Liang, S.**\*, 2024. *Nonequilibrium Response Theory: From Precision Limits to Strong Perturbation*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
-
-[7] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
 
 [6] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Bounds on Symmetry Breaking in Linear and Catalytic Biochemical Systems*. [Phys. Rev. Lett. 132, 228402](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.228402).
 
