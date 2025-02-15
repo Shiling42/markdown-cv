@@ -15,17 +15,21 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 ## Professional Experiences
 `Nov 2024 - now`
 *ELBE Postdoctoral Fellow*<br> 
-**Center for System Biology Dresden (CSBD) | Max Planck Institute for Physics of Complex Systems (PKS) | Cell Biology and Genetics (CBG)**, Dresden, Germany
+**Center for Systems Biology Dresden (CSBD) | Max Planck Institute for Physics of Complex Systems (PKS) | Cell Biology and Genetics (CBG)**, Dresden, Germany
+- Group affiliations: Jonathan Roldenfelds (MPI-CBG), Frank Jülicher (MPI-PKS)
 
 `Jan 2023 - May 2023`
 *JSPS Fellow (Strategic Program)*<br> 
  **Okinawa Institute of Science and Technology (OIST)**, Okinawa, Japan
+ - Host advisor: Simone Pigolotti
 
 
 ## Education
 `2020 - 2024`
 *Ph.D. in Physics*<br> 
-**École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
+**École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland <br> 
+- Thesis title: **Fundamental Thermodynamic Constraints on Symmetry Breaking in Biochemical Systems**  <br>
+- PhD advisors: Daniel Maria Busiello and Paolo De Los Rios
 
 `2018 - 2020`
 *M.Sc. in Physics*<br> 
@@ -38,7 +42,7 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 
 
 
-## Awards, Grants & Honours
+## Awards & Honours
 `2024`
 ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD) 
 
@@ -109,6 +113,27 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
   - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101) -->
 
+## Teaching and Supervising
+
+- 1 Master thesis and  1 Master semester project at EPFL
+- Teaching Assistant, Analytic mechanics at EPFL, 2022/23
+- Teaching Assistant, Statistical physics of biomacromoleculesat at EPFL, 2022
+- Teaching Assistant, Biophysics : physics of the cell at EPFL, 2021
+
+## Service
+
+`2022-now`
+**Founder and organizer of *Statistical Physics Youth Communications***
+- Founded and lead a vibrant community of 250+ early-career researchers in statistical physics
+- Coordinate monthly online seminars featuring cutting-edge research, with 14 successful sessions completed
+
+
+`2024-2025`
+**Co-organizer of *JiZhi Nonequilibrium Statistical Physics Reading Group***
+- Design and coordinate a structured 16-session program covering fundamental and advanced topics
+
+
+
 
 ## Invited Talks
 `2024`
@@ -134,6 +159,64 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
 
+<!-- ## Schools, Workshops & Conferences
+
+`2025`
+**Physical Biology Circle Meeting 2025**, GIMM, Lisbon, Portugal, *Jan. 2025*
+- Contributed talk: Thermodynamic Constraints Shape the Design Space of Biological Functions
+
+`2024`
+**Frontiers in Non-equilibrium Physics 2024**, YITP, Kyoto, Japan, *July 2024*
+- Contributed talk: A Minimal model for Carnot efficiency at maximum power
+
+**Information Processing, Noise, and Adaptation in Living Systems - Signal24**, Dresden, Germany, *March 2024*
+- Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+
+**Modeling energy-consuming biomolecular processes**, Lausanne, Switzerland, *Jan. 2024*
+- Poster: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+
+`2023`
+**StatPhys28**, Tokyo, Japan, *Aug. 2023*
+- Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+
+**Molecular Origins of Life, Munich**, Online, *Jun. 2023*
+- Poster: [Emergent thermophoretic behavior in chemical reaction systems](../files/poster_thermophoresis.pdf)
+
+**Workshop on Stochastic Thermodynamics - WOST IV**, ICTP, Italy, *May 2023*
+- Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation [[Video](https://www.youtube.com/watch?v=-jYsAigeULM)]
+
+**APS March Meeting**, Online, *Mar. 2023*
+- Contributed talk: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+
+`2022`
+**(Post)modern Thermodynamics School & Workshop**, Luxembourg University, Luxembourg, *Dec. 2022*
+- Poster: [Emergent thermophoretic behavior in chemical reaction systems](../files/poster_thermophoresis.pdf)
+
+**School on Information, Noise, and Physics of Life**, Niš, Serbia, *Sep. 2022*
+
+**7th Beijing Soft Matter Workshop**, Beijing, China, *Jul. 2022*
+- Talk: Emergent thermophoretic behavior for particles with internal states
+- Best Short Talk Award
+
+**Molecular Origins of Life**, Munich, Germany, *Jun. 2022*
+- Poster: Universal thermodynamic bounds on spontaneous chiral symmetry breaking
+
+`2021`
+**14th International meeting on Thermodiffusion**, NTNU, Trondheim, Norway, *May 2021*
+- Poster: Thermophoresis of multi-state particles
+
+`2019`
+**IX GEFENOL Summer School on Statistical Physics of Complex Systems**, Universidad de Cantabria, Santander, Spain, *Sep. 2019*
+
+**Mathematics of Deep Learning**, Zuse Institute Berlin, Berlin, Germany, *Aug. 2019*
+
+**Bad Honnef Physics School: Physics of Bacteria**, Physikzentrum Bad Honnef, Germany, *Aug. 2019*
+
+**Hands-On Research in Complex Systems School**, ICTP, Trieste, Italy, *Jul. 2019*
+- Poster: The cluster structure of high-efficiency photosystem (PS I)
+
+`2017`
+**Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017* -->
 
 <!-- ### Footer
 
