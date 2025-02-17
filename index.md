@@ -125,7 +125,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022-now`
 **Founder and organizer of *Statistical Physics Youth Communications***
 - Founded and lead a vibrant community of 250+ early-career researchers in statistical physics
-- Coordinate monthly online seminars featuring cutting-edge research, with 14 successful sessions completed
+- Coordinate online seminars featuring recent advances in statistical physics, with 14 successful sessions completed
 
 
 `2024-2025`
