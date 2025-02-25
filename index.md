@@ -68,7 +68,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2025`
 [8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
-(Featured in [Phys.org](https://phys.org/news/2025-01-rethinking-carnot-scientists-traditional-power.html) and [Interesting Engineering](https://interestingengineering.com/innovation/chinese-scientists-overcome-power-efficiency-trade-off))
+(Featured in [Phys.org](https://phys.org/news/2025-01-rethinking-carnot-scientists-traditional-power.html), [Interesting Engineering](https://interestingengineering.com/innovation/chinese-scientists-overcome-power-efficiency-trade-off) and [South China Morning Post](https://www.scmp.com/news/china/science/article/3297427/no-more-engine-trade-chinese-led-design-breaks-power-efficiency-deadlock))
 
 [7] Cao, Y.\* and **Liang, S.**\*, 2025. *Stochastic thermodynamics for biological functions*. [Quantitative Biology, 13(1), p.e75.](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.75)
 
