@@ -32,19 +32,18 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 - PhD advisors: Daniel Maria Busiello and Paolo De Los Rios
 
 `2018 - 2020`
-*M.Sc. in Physics*<br> 
+*M.Sc. in Physics*<br>
 **École Polytechnique Fédérale de Lausanne (EPFL)**, Lausanne, Switzerland
 
 `2014 -  2018`
-*B.Sc. in Physics*<br> 
-**Beijing Normal University**, Beijing, China<br> 
+*B.Sc. in Physics*<br>
+**Beijing Normal University**, Beijing, China<br>
 **The University of Manchester**, Manchester, United Kingdom
-
 
 
 ## Awards & Honours
 `2024`
-ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD) 
+ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD)
 
 `2024`
 APS DBIO Travel Awards (declined due to visa issue)
@@ -64,7 +63,6 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 [9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
 
 ## Publications
-
 
 `2025`
 [8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
@@ -117,7 +115,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 - 1 Master thesis and  1 Master semester project at EPFL
 - Teaching Assistant, Analytic mechanics at EPFL, 2022/23
-- Teaching Assistant, Statistical physics of biomacromoleculesat at EPFL, 2022
+- Teaching Assistant, Statistical physics of biomacromolecules at EPFL, 2022
 - Teaching Assistant, Biophysics : physics of the cell at EPFL, 2021
 
 ## Service
@@ -125,15 +123,13 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022-now`
 **Founder and organizer of *Statistical Physics Youth Communications***
 - Founded and lead a vibrant community of 250+ early-career researchers in statistical physics
-- Coordinate online seminars featuring recent advances in statistical physics, with 14 successful sessions completed
+- Coordinate online seminars featuring recent advances in statistical physics, with 15 successful sessions completed
 
 
 `2024-2025`
-**Co-organizer of *JiZhi Nonequilibrium Statistical Physics Reading Group***
-- Design and coordinate a structured 16-session program covering fundamental and advanced topics
-
-
-
+**Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
+- Design and coordinate a structured 16-session program covering fundamental and advanced topics with 300+ participants
+- 
 
 ## Invited Talks
 `2024`
