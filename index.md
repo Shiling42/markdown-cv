@@ -129,7 +129,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
 - Design and coordinate a structured 16-session program covering fundamental and advanced topics with 300+ participants
-- 
+
 
 ## Invited Talks
 `2024`
