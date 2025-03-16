@@ -16,7 +16,7 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 `Nov 2024 - now`
 *ELBE Postdoctoral Fellow*<br> 
 **Center for Systems Biology Dresden (CSBD) | Max Planck Institute for Physics of Complex Systems (PKS) | Cell Biology and Genetics (CBG)**, Dresden, Germany
-- Group affiliations: Jonathan Roldenfelds (MPI-CBG), Frank Jülicher (MPI-PKS)
+- Group affiliations: Jonathan Rodenfels (MPI-CBG), Frank Jülicher (MPI-PKS)
 
 `Jan 2023 - May 2023`
 *JSPS Fellow (Strategic Program)*<br> 
