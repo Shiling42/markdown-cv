@@ -132,6 +132,11 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 
 ## Invited Talks
+`2025`
+**Thermodynamic Space for Chemical Reaction Networks**, Autocatalysis in Reaction Networks Seminar, Online, *Apr 2025*
+
+**Introduction to Chemical Reaction Theory**, OIST TSVP Program, Okinawa, Japan, *Mar 2025*
+
 `2024`
 **Thermodynamic Constraints on Biological Processes**, ELBE Symposium, Dresden, Germany, *May 2024*
 
@@ -158,6 +163,13 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 <!-- ## Schools, Workshops & Conferences
 
 `2025`
+**DPG Spring Meeting**, Regensburg, Germany, *Mar. 2025*
+- Contributed talk: Power-Efficiency Trade-off in Finite-Time Thermodynamics: From Minimal Model to General Principle
+
+**Computational and Physical Understanding of Biological Information Processing**, OIST TSVP Program, Okinawa Japan, *Mar. 2025*
+- Invited talk: Introduction to Chemical Reaction Theory
+- Poster / short talk: Fundamental Limits on Biochemical Sensing
+  
 **Physical Biology Circle Meeting 2025**, GIMM, Lisbon, Portugal, *Jan. 2025*
 - Contributed talk: Thermodynamic Constraints Shape the Design Space of Biological Functions
 
