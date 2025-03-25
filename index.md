@@ -111,7 +111,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
   - Undergraduate Research Project at Beijing Normal University. Supervisor: Prof. Qing Ai
   - Funding: China National University Student Innovation & Entrepreneurship Development Program (No.201610027101) -->
 
-## Teaching and Supervising
+## Teaching and Supervision
 
 - 1 Master thesis and  1 Master semester project at EPFL
 - Teaching Assistant, Analytic mechanics at EPFL, 2022/23
