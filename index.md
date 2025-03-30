@@ -159,8 +159,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
-
-<!-- ## Schools, Workshops & Conferences
+<!-- 
+## Schools, Workshops & Conferences
 
 `2025`
 **DPG Spring Meeting**, Regensburg, Germany, *Mar. 2025*
@@ -224,7 +224,17 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 - Poster: The cluster structure of high-efficiency photosystem (PS I)
 
 `2017`
-**Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017* -->
+**Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017*
+ -->
+
+
+## References
+**Prof. Paolo De Los Rios**, [paolo.delosrios@epfl.ch](paolo.delosrios@epfl.ch) , Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+
+**Prof. Simone Pigolotti**, [simone.pigolotti@oist.jp](simone.pigolotti@oist.jp), Professor, Okinawa Institute of Science and Technology (OIST), Japan
+
+**Dr. Daniel Maria Busiello**, [busiello@pks.mpg.de](busiello@pks.mpg.de), Project Leader, Max Planck Institute for the Physics of Complex Systems (MPI-PKS), Germany
+
 
 <!-- ### Footer
 
