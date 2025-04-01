@@ -113,7 +113,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Teaching and Supervision
 
-- 1 Master thesis and  1 Master semester project at EPFL
+- 1 Master thesis and  1 Master semester project at EPFL, 2023/24
+- Teaching Assistant, PEBBLE BioFusion Camp 2024 at Westlake University, 2024
 - Teaching Assistant, Analytic mechanics at EPFL, 2022/23
 - Teaching Assistant, Statistical physics of biomacromolecules at EPFL, 2022
 - Teaching Assistant, Biophysics : physics of the cell at EPFL, 2021
@@ -121,7 +122,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Service
 
 `2022-now`
-**Founder and organizer of *Statistical Physics Youth Communications***
+**Founder and Organizer of *Statistical Physics Youth Communications***
 - Founded and lead a vibrant community of 250+ early-career researchers in statistical physics
 - Coordinate online seminars featuring recent advances in statistical physics, with 15 successful sessions completed
 
@@ -129,6 +130,9 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
 - Design and coordinate a structured 16-session program covering fundamental and advanced topics with 300+ participants
+
+**Reviewer** 
+- Soft Matter, Physical Review E, and Journal of Statistical Physics
 
 
 ## Invited Talks
@@ -159,7 +163,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
-<!-- 
+
 ## Schools, Workshops & Conferences
 
 `2025`
@@ -225,11 +229,11 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2017`
 **Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017*
- -->
+
 
 
 ## References
-**Prof. Paolo De Los Rios**, [paolo.delosrios@epfl.ch](paolo.delosrios@epfl.ch) , Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+**Prof. Paolo De Los Rios**, [paolo.delosrios@epfl.ch](paolo.delosrios@epfl.ch), Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
 **Prof. Simone Pigolotti**, [simone.pigolotti@oist.jp](simone.pigolotti@oist.jp), Professor, Okinawa Institute of Science and Technology (OIST), Japan
 
