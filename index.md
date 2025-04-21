@@ -20,8 +20,8 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 
 `Jan 2023 - May 2023`
 *JSPS Fellow (Strategic Program)*<br> 
- **Okinawa Institute of Science and Technology (OIST)**, Okinawa, Japan
- - Host advisor: Simone Pigolotti
+**Okinawa Institute of Science and Technology (OIST)**, Okinawa, Japan
+- Host advisor: Simone Pigolotti
 
 
 ## Education
@@ -123,8 +123,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
-- Founded and lead a vibrant community of 250+ early-career researchers in statistical physics
-- Coordinate online seminars featuring recent advances in statistical physics, with 15 successful sessions completed
+- Founded and lead a vibrant community of 260+ early-career researchers in statistical physics
+- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 15 successful sessions completed
 
 
 `2024-2025`
@@ -137,7 +137,12 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Invited Talks
 `2025`
+**Response relations in non-equilibrium Markov processes**, The 8th National Conference on Statistical Physics and Complex Systems, Ningbo, China, *Jul 2025*
+
+
 **Thermodynamic Space for Chemical Reaction Networks**, Autocatalysis in Reaction Networks Seminar, Online, *Apr 2025*
+
+**Thermodynamic Limits of Biological Functions**, Westlake University, Hangzhou China (Onlien), *Apr 2025*  
 
 **Introduction to Chemical Reaction Theory**, OIST TSVP Program, Okinawa, Japan, *Mar 2025*
 
@@ -167,6 +172,12 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Schools, Workshops & Conferences
 
 `2025`
+**StatPhys29**, Florence, Italy, *Jul 2025*
+- Contributed talk: Power-Efficiency Trade-off in Finite-Time Thermodynamics
+  
+**Joint European Thermodynamics Conference**, Belgrade, Serbia, *May 2025*
+- Contributed talk: Fundamental Limits on Biochemical Sensing
+
 **DPG Spring Meeting**, Regensburg, Germany, *Mar. 2025*
 - Contributed talk: Power-Efficiency Trade-off in Finite-Time Thermodynamics: From Minimal Model to General Principle
 
