@@ -11,7 +11,6 @@ title: Shiling Liang's CV
 
 stochastic thermodynamics, chemical reaction theory, biological physics
 
-
 ## Professional Experiences
 `Nov 2024 - now`
 *ELBE Postdoctoral Fellow*<br> 
@@ -22,7 +21,6 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 *JSPS Fellow (Strategic Program)*<br> 
 **Okinawa Institute of Science and Technology (OIST)**, Okinawa, Japan
 - Host advisor: Simone Pigolotti
-
 
 ## Education
 `2020 - 2024`
@@ -39,7 +37,6 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 *B.Sc. in Physics*<br>
 **Beijing Normal University**, Beijing, China<br>
 **The University of Manchester**, Manchester, United Kingdom
-
 
 ## Awards & Honours
 `2024`
@@ -126,19 +123,19 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 - Founded and lead a vibrant community of 260+ early-career researchers in statistical physics
 - Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 15 successful sessions completed
 
-
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
 - Design and coordinate a structured 16-session program covering fundamental and advanced topics with 300+ participants
 
 **Reviewer** 
-- Soft Matter, Physical Review E, and Journal of Statistical Physics
+- Soft Matter, Physical Review E, Journal of Physics: Condensed Matter, and Journal of Statistical Physics
 
 
 ## Invited Talks
 `2025`
 **Response relations in non-equilibrium Markov processes**, The 8th National Conference on Statistical Physics and Complex Systems, Ningbo, China, *Jul 2025*
 
+**Thermodynamics of Chemical Reaction Theory**, Leipzig University, Leipzig, Germany, *May 2025*
 
 **Thermodynamic Space for Chemical Reaction Networks**, Autocatalysis in Reaction Networks Seminar, Online, *Apr 2025*
 
