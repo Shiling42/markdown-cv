@@ -120,8 +120,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
-- Founded and lead a vibrant community of 260+ early-career researchers in statistical physics
-- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 15 successful sessions completed
+- Founded and lead a vibrant community of 280+ early-career researchers in statistical physics
+- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 21 successful sessions completed
 
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
@@ -169,6 +169,11 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Schools, Workshops & Conferences
 
 `2025`
+**The 8th National Conference on Statistical Physics and Complex Systems**, Ningbo, China, *Jul 2025*
+- Invited talk: Response relations in non-equilibrium Markov processes
+
+**QBio 2025**, Beijing, China, *Jul 2025*
+
 **StatPhys29**, Florence, Italy, *Jul 2025*
 - Contributed talk: Power-Efficiency Trade-off in Finite-Time Thermodynamics
   
@@ -239,7 +244,6 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 **Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017*
 
 
-
 ## References
 **Prof. Paolo De Los Rios**, [paolo.delosrios@epfl.ch](paolo.delosrios@epfl.ch), Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
@@ -250,4 +254,4 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 <!-- ### Footer
 
-Last updated: Aug 2024-->
+Last updated: June 2025-->
