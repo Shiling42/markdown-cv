@@ -55,7 +55,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Preprints
 \* Corresponding author
 
-[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonequilibrium Response Theory: From Precision Limits to Strong Perturbation*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
+[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
 
 [9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
 
@@ -135,6 +135,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2025`
 **Response relations in non-equilibrium Markov processes**, The 8th National Conference on Statistical Physics and Complex Systems, Ningbo, China, *Jul 2025*
 
+**Nonequilibrium Response Theory under Arbitrary Strong Perturbations**, GSCAEP, Beijing, China, *Jul 2025*
+
 **Thermodynamics of Chemical Reaction Theory**, Leipzig University, Leipzig, Germany, *May 2025*
 
 **Thermodynamic Space for Chemical Reaction Networks**, Autocatalysis in Reaction Networks Seminar, Online, *Apr 2025*
@@ -170,9 +172,10 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2025`
 **The 8th National Conference on Statistical Physics and Complex Systems**, Ningbo, China, *Jul 2025*
-- Invited talk: Response relations in non-equilibrium Markov processes
+- **Invited talk:** Response relations in non-equilibrium Markov processes
 
 **QBio 2025**, Beijing, China, *Jul 2025*
+- Contributed talk: Thermodynamic Space:The Operational Limit of Chemical Reaction Networks
 
 **StatPhys29**, Florence, Italy, *Jul 2025*
 - Contributed talk: Power-Efficiency Trade-off in Finite-Time Thermodynamics
