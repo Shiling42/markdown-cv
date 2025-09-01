@@ -135,7 +135,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2025`
 **Thermodynamic Design Space of Biochemical Functions**, CAS-ITP, Beijing, *Aug 2025*
 
-**Nonlinear Response Theory for Nonequilibrium Biochemical Networks**,  Westlake University, Hangzhou China (Onlien), *Aug 2025*
+**Nonlinear Response Theory for Nonequilibrium Biochemical Networks**,  Westlake University, Hangzhou China, *Aug 2025*
 
 **Response relations in non-equilibrium Markov processes**, The 8th National Conference on Statistical Physics and Complex Systems, Ningbo, China, *Jul 2025*
 
@@ -145,7 +145,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 **Thermodynamic Space for Chemical Reaction Networks**, Autocatalysis in Reaction Networks Seminar, Online, *Apr 2025*
 
-**Thermodynamic Limits of Biological Functions**, Westlake University, Hangzhou China (Onlien), *Apr 2025*  
+**Thermodynamic Limits of Biological Functions**, Westlake University, Hangzhou China (Online), *Apr 2025*  
 
 **Introduction to Chemical Reaction Theory**, OIST TSVP Program, Okinawa, Japan, *Mar 2025*
 
