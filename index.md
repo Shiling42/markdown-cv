@@ -120,7 +120,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
-- Founded and lead a vibrant community of 280+ early-career researchers in statistical physics
+- Founded and lead a vibrant community of 300+ early-career researchers in statistical physics
 - Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 21 successful sessions completed
 
 `2024-2025`
@@ -133,6 +133,10 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Invited Talks
 `2025`
+**Thermodynamic Design Space of Biochemical Functions**, CAS-ITP, Beijing, *Aug 2025*
+
+**Nonlinear Response Theory for Nonequilibrium Biochemical Networks**,  Westlake University, Hangzhou China (Onlien), *Aug 2025*
+
 **Response relations in non-equilibrium Markov processes**, The 8th National Conference on Statistical Physics and Complex Systems, Ningbo, China, *Jul 2025*
 
 **Nonequilibrium Response Theory under Arbitrary Strong Perturbations**, GSCAEP, Beijing, China, *Jul 2025*
