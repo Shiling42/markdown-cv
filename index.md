@@ -128,7 +128,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 - Design and coordinate a structured 16-session program covering fundamental and advanced topics with 300+ participants
 
 **Reviewer** 
-- Soft Matter, Physical Review E, Physical Review Research, PLOS Computational Biology, Newton, Journal of Physics: Condensed Matter, and Journal of Statistical Physics
+- Physical Review Letters, Physical Review E, Physical Review Research, Communications Physics, Soft Matter, PLOS Computational Biology, Newton, Journal of Physics: Condensed Matter, and Journal of Statistical Physics
 
 
 ## Invited Talks
