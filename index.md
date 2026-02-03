@@ -55,6 +55,9 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Preprints
 \* Corresponding author
 
+[11] Busiello, D.M.\*, **Liang, S.**\*, Pigolotti, S.\*, 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [arXiv preprint, arXiv:2601.18136](https://arxiv.org/abs/2601.18136).
+
+
 [10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
 
 [9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
@@ -172,7 +175,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022`
 **Non-isothermal chemical reaction networks: hints to the origins of life**, MISANU, Serbia (Online),  *Nov 2022*
 
-## Schools, Workshops & Conferences
+<!-- ## Schools, Workshops & Conferences
 
 `2025`
 **The 8th National Conference on Statistical Physics and Complex Systems**, Ningbo, China, *Jul 2025*
@@ -248,7 +251,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 - Poster: The cluster structure of high-efficiency photosystem (PS I)
 
 `2017`
-**Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017*
+**Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017* -->
 
 
 ## References
