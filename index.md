@@ -124,7 +124,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
 - Founded and lead a vibrant community of 300+ early-career researchers in statistical physics
-- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 26 successful sessions completed
+- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 28 successful sessions completed
 
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
