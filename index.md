@@ -2,7 +2,7 @@
 layout: cv
 title: Shiling Liang's CV
 ---
-# Shiling Liang
+# Shiling Liang (梁师翎)
 <div id="webaddress">
 <a href="https://shilingliang.com">shilingliang.com</a>
 | <a href="mailto:shiling@pks.mpg.de">shiling@pks.mpg.de</a>
@@ -39,6 +39,10 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 **The University of Manchester**, Manchester, United Kingdom
 
 ## Awards & Honours
+`2026`
+NSFC Excellent Young Scientists Fund (Overseas)
+- 国家自然科学基金优秀青年科学基金项目（海外）
+
 `2024`
 ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD)
 
@@ -53,14 +57,14 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 
 ## Preprints
-\* Corresponding author
+\* Corresponding author,  † Authors listed in alphabetical order
 
-[11] Busiello, D.M.\*, **Liang, S.**\*, Pigolotti, S.\*, 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [arXiv preprint, arXiv:2601.18136](https://arxiv.org/abs/2601.18136).
+[11] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [arXiv:2601.18136](https://arxiv.org/abs/2601.18136), under review at New Journal of Physics.
 
 
-[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv preprint, arXiv:2412.19602](https://arxiv.org/abs/2412.19602).
+[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602), under review at Phys. Rev. Lett.
 
-[9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv preprint, arXiv:2407.11498](https://arxiv.org/abs/2407.11498).
+[9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498), under review at Phys. Rev. X.
 
 ## Publications
 
@@ -124,7 +128,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
 - Founded and lead a vibrant community of 300+ early-career researchers in statistical physics
-- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 28 successful sessions completed
+- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 32 successful sessions completed
 
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
@@ -136,6 +140,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Invited Talks
 `2025`
+**Response of Nonequilibrium Steady States**, TUD, Dresden, *Apr 2026*
+
 **Thermodynamic Design Space of Biochemical Functions**, CAS-ITP, Beijing, *Aug 2025*
 
 **Nonlinear Response Theory for Nonequilibrium Biochemical Networks**,  Westlake University, Hangzhou China, *Aug 2025*
@@ -253,14 +259,14 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2017`
 **Introduction to Complex Systems Summer School**, Utrecht University, Utrecht, Netherlands, *Jun. 2017* -->
 
-
+<!-- 
 ## References
 **Prof. Paolo De Los Rios**, [paolo.delosrios@epfl.ch](paolo.delosrios@epfl.ch), Associate Professor, École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
 **Prof. Simone Pigolotti**, [simone.pigolotti@oist.jp](simone.pigolotti@oist.jp), Professor, Okinawa Institute of Science and Technology (OIST), Japan
 
 **Dr. Daniel Maria Busiello**, [busiello@pks.mpg.de](busiello@pks.mpg.de), Project Leader, Max Planck Institute for the Physics of Complex Systems (MPI-PKS), Germany
-
+ -->
 
 <!-- ### Footer
 
