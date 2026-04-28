@@ -39,10 +39,6 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 **The University of Manchester**, Manchester, United Kingdom
 
 ## Awards & Honours
-`2026`
-NSFC Excellent Young Scientists Fund (Overseas)
-- 国家自然科学基金优秀青年科学基金项目（海外）
-
 `2024`
 ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD)
 
@@ -59,12 +55,12 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Preprints
 \* Corresponding author,  † Authors listed in alphabetical order
 
-[11] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [arXiv:2601.18136](https://arxiv.org/abs/2601.18136), under review at New Journal of Physics.
+[11] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [arXiv:2601.18136](https://arxiv.org/abs/2601.18136)
 
 
-[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602), under review at Phys. Rev. Lett.
+[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
 
-[9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498), under review at Phys. Rev. X.
+[9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
 
 ## Publications
 
