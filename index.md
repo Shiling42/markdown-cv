@@ -55,14 +55,13 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Preprints
 \* Corresponding author,  † Authors listed in alphabetical order
 
-[11] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [arXiv:2601.18136](https://arxiv.org/abs/2601.18136)
+[11] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
 
-
-[10] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
-
-[9] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
+[10] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
 
 ## Publications
+`2026`
+[9] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [New Journal of Physics](https://iopscience.iop.org/article/10.1088/1367-2630/ae6fde/meta)
 
 `2025`
 [8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
