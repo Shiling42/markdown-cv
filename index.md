@@ -39,6 +39,11 @@ stochastic thermodynamics, chemical reaction theory, biological physics
 **The University of Manchester**, Manchester, United Kingdom
 
 ## Awards & Honours
+`2026` 
+NSFC Excellent Young Scientists Fund (Overseas)
+
+Shanghai Magnolia Talent Program (Youth Project)
+
 `2024`
 ELBE Postdoctoral Fellowship, Center for Systems Biology Dresden (CSBD)
 
@@ -51,7 +56,6 @@ Japan Society for the Promotion of Science (JSPS) Strategic Fellowship
 `2022`
 Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
-
 ## Preprints
 \* Corresponding author,  † Authors listed in alphabetical order
 
@@ -61,7 +65,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Publications
 `2026`
-[9] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [New Journal of Physics](https://iopscience.iop.org/article/10.1088/1367-2630/ae6fde/meta)
+[9] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [New Journal of Physics, 28, p.064602](https://iopscience.iop.org/article/10.1088/1367-2630/ae6fde/meta)
 
 `2025`
 [8] **Liang, S.**\*, Ma, Y.-H.\*, Busiello, D. M. and De Los Rios, P., 2025. *Minimal Model for Carnot Efficiency at Maximum Power*. , [Phys. Rev. Lett. 134(2), 027101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.027101).
@@ -122,8 +126,8 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
-- Founded and lead a vibrant community of 300+ early-career researchers in statistical physics
-- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 32 successful sessions completed
+- Founded and lead a vibrant community of 350+ early-career researchers in statistical physics
+- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 34 successful sessions completed
 
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
