@@ -59,6 +59,10 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Preprints
 \* Corresponding author,  † Authors listed in alphabetical order
 
+[13] Bao, R.\* and **Liang, S.**\*, 2026. *Exact First-Passage Time Response Theory from Steady-State Response*. [arXiv:2608.11202](https://arxiv.org/abs/2608.11202)
+
+[12] **Liang, S.**\* and Bao, R.\*, 2026. *A Universal Control Budget for First-Passage Kinetics*. [arXiv:2608.06368](https://arxiv.org/abs/2608.06368)
+
 [11] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
 
 [10] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
