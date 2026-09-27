@@ -65,10 +65,10 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 [11] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
 
-[10] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2024. *Thermodynamic Space of Chemical Reaction Networks*. [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
-
 ## Publications
 `2026`
+[10] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2026. *Thermodynamic Space of Chemical Reaction Networks*. Phys. Rev. X (accepted). [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
+
 [9] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [New Journal of Physics, 28, p.064602](https://iopscience.iop.org/article/10.1088/1367-2630/ae6fde/meta)
 
 `2025`
