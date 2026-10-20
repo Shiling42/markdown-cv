@@ -59,14 +59,16 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 ## Preprints
 \* Corresponding author,  † Authors listed in alphabetical order
 
-[13] Bao, R.\* and **Liang, S.**\*, 2026. *Exact First-Passage Time Response Theory from Steady-State Response*. [arXiv:2608.11202](https://arxiv.org/abs/2608.11202)
+[14] Bao, R.\* and **Liang, S.**\*, 2026. *Exact First-Passage Time Response Theory from Steady-State Response*. [arXiv:2608.11202](https://arxiv.org/abs/2608.11202)
 
-[12] **Liang, S.**\* and Bao, R.\*, 2026. *A Universal Control Budget for First-Passage Kinetics*. [arXiv:2608.06368](https://arxiv.org/abs/2608.06368)
+[13] **Liang, S.**\* and Bao, R.\*, 2026. *A Universal Control Budget for First-Passage Kinetics*. [arXiv:2608.06368](https://arxiv.org/abs/2608.06368)
 
-[11] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
+[12] Bao, R.\* and **Liang, S.**\*, 2024. *Nonlinear Response Identities and Bounds for Nonequilibrium Steady States*. [arXiv:2412.19602](https://arxiv.org/abs/2412.19602)
 
 ## Publications
 `2026`
+[11] Bao, R.\* and **Liang, S.**\*, 2026. *Exact Finite Response of Higher-Order Statistics in Nonequilibrium Networks*. [Chinese Physics Letters, 43, 100002](https://iopscience.iop.org/article/10.1088/0256-307X/43/10/100002/meta)
+
 [10] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2026. *Thermodynamic Space of Chemical Reaction Networks*. Phys. Rev. X (accepted). [arXiv:2407.11498](https://arxiv.org/abs/2407.11498)
 
 [9] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [New Journal of Physics, 28, p.064602](https://iopscience.iop.org/article/10.1088/1367-2630/ae6fde/meta)
@@ -131,7 +133,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
 - Founded and lead a vibrant community of 350+ early-career researchers in statistical physics
-- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 34 successful sessions completed
+- Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 37 successful sessions completed
 
 `2024-2025`
 **Co-organizer of *Swarma Nonequilibrium Statistical Physics Study Group***
@@ -143,12 +145,20 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Invited Talks
 `2026`
+**Turning the Knobs: Response and Control in General Markov Jump Processes**, Queen Mary University of London, London, UK, *Oct 2026*
+
+**Turning the Knobs: Response and Control in General Biochemical Processes**, Imperial College London, London, UK, *Oct 2026*
+
+**Nonequilibrium Thermodynamics of Living Systems: Universal Constraints on Biological Functions**, Fudan University, Shanghai, China, *Apr 2026*
+
 **Response of Nonequilibrium Steady States**, TUD, Dresden, *Apr 2026*
 
 `2025`
 **Thermodynamic Design Space of Biochemical Functions**, CAS-ITP, Beijing, *Aug 2025*
 
 **Nonlinear Response Theory for Nonequilibrium Biochemical Networks**,  Westlake University, Hangzhou China, *Aug 2025*
+
+**The Operational Limits on Biochemical Processes: From Accessibility to Controllability**, Zhejiang University, Hangzhou, China, *Aug 2025*
 
 **Response relations in non-equilibrium Markov processes**, The 8th National Conference on Statistical Physics and Complex Systems, Ningbo, China, *Jul 2025*
 
@@ -187,7 +197,33 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 <!-- ## Schools, Workshops & Conferences
 
+`2026`
+**Thermodynamics and Kinetics of Chemical Reaction Networks: from Cell Metabolism to Design Principles for Synthetic Life**, MIAPbP Program, Garching, Germany, *Sep 2026*
+- Talk: Nonlinear Response Relations in Biochemical Processes
+
+**High-Dimensional Computation in Soft Matter (HDCSM26)**, MPI-PKS, Dresden, Germany, *Jul 2026*
+- Poster (with Shiheng Zhao): Designing Multistable Mechanical Response through Multicomponent Mechanochemical Coupling
+- Session chair
+
+**12th International Conference on Biological Physics (ICBP 2026)**, Genoa, Italy, *Jun 2026*
+- Contributed talk: Universal Physical Constraints on Biological Information Processing: A Nonlinear Response Framework
+
+**Discrete Laplacians 2026**, MPI-CBG, Dresden, Germany, *Jun 2026*
+- Contributed talk: Topology of Discrete Laplacian in Non-Equilibrium Thermodynamics: From Trees to Forests
+
+**Information & Decisions Across Scales: Constraints and Optimality in Neural and Biological Networks (IDeAS26)**, MPI-PKS, Dresden, Germany, *May 2026*
+- Poster: Universal Physical Constraints on Biological Information Processing: A Nonlinear Response Framework
+
+**DPG Spring Conference**, Dresden, Germany, *Mar 2026*
+- Contributed talk: Nonlinear Response Theory for Nonequilibrium Biochemical Networks
+
 `2025`
+**Kyoto Workshop on Quantum Thermodynamics and Stochastic Thermodynamics 2025**, Kyoto, Japan, *Dec 2025*
+- Poster: Exact Identities and Universal Bounds for Nonequilibrium Nonlinear Responses
+
+**Multiscale modeling of chemically active mixtures**, Lausanne, Switzerland, *Oct 2025*
+- Poster: Thermodynamic space: Operational limits of nonequilibrium chemical reaction networks
+
 **The 8th National Conference on Statistical Physics and Complex Systems**, Ningbo, China, *Jul 2025*
 - **Invited talk:** Response relations in non-equilibrium Markov processes
 
@@ -223,6 +259,9 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 `2023`
 **StatPhys28**, Tokyo, Japan, *Aug. 2023*
 - Contributed talk: Universal thermodynamic bounds on symmetry breaking in living systems: from error correction to pattern formation
+
+**The 7th National Conference on Statistical Physics and Complex Systems**, Kunming, China, *Jul. 2023*
+- Talk: Universal thermodynamic bounds on symmetry breaking in living systems
 
 **Molecular Origins of Life, Munich**, Online, *Jun. 2023*
 - Poster: [Emergent thermophoretic behavior in chemical reaction systems](../files/poster_thermophoresis.pdf)
