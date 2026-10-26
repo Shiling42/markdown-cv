@@ -67,9 +67,9 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 ## Publications
 `2026`
-[11] Bao, R.\* and **Liang, S.**\*, 2026. *Exact Finite Response of Higher-Order Statistics in Nonequilibrium Networks*. [Chinese Physics Letters, 43, 100002](https://iopscience.iop.org/article/10.1088/0256-307X/43/10/100002/meta)
+[11] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2026. *Thermodynamic Space of Chemical Reaction Networks*. [Phys. Rev. X 16, 041026](https://link.aps.org/doi/10.1103/g875-ldn5)
 
-[10] **Liang, S.**\*, De Los Rios, P. and Busiello, D. M.\*, 2026. *Thermodynamic Space of Chemical Reaction Networks*. [Phys. Rev. X 16, 041026](https://link.aps.org/doi/10.1103/g875-ldn5)
+[10] Bao, R.\* and **Liang, S.**\*, 2026. *Exact Finite Response of Higher-Order Statistics in Nonequilibrium Networks*. [Chinese Physics Letters, 43, 100002](https://iopscience.iop.org/article/10.1088/0256-307X/43/10/100002/meta)
 
 [9] Busiello, D.M.\* † , **Liang, S.**\* † , Pigolotti, S.\* † , 2026. *Non-equilibrium symmetry of cyclic first-passage times*. [New Journal of Physics, 28, p.064602](https://iopscience.iop.org/article/10.1088/1367-2630/ae6fde/meta)
 
@@ -132,7 +132,7 @@ Best Short Talk Award, 7th Beijing Soft Matter Workshop
 
 `2022-now`
 **Founder and Organizer of *Statistical Physics Youth Communications***
-- Founded and lead a vibrant community of 350+ early-career researchers in statistical physics
+- Founded and lead a vibrant community of 400+ early-career researchers in statistical physics
 - Coordinate online [seminars](https://shilingliang.com/seminars/) featuring recent advances in statistical physics, with 37 successful sessions completed
 
 `2024-2025`
